@@ -1,0 +1,1165 @@
+{
+  "originUrl": "https://www.bmw.rs",
+  "aborted": false,
+  "lastCrawled": "https://www.bmw.rs/",
+  "urls": [
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models",
+      "id": "3d40f7dba70d4221ffe953d0ba93449da9265797"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/1-series.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/1-series",
+      "id": "1cc26766dcc9a3dac4b21fcef21d5b2cc1df0cf6"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/2-series",
+      "id": "1f949e610405f29a8797e5feec8c306abf9581e9"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina",
+      "id": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid",
+      "id": "830848895228d6add9955fb1aa65acda8f4c1bef"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring",
+      "id": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/4-series",
+      "id": "f433a74bf8028cc7bccf83d8436d7383d257a30e"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet",
+      "id": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/4-series/coupe/bmw-serije-4-coupe",
+      "id": "89bf8776077b273d55d18f84496242cc92f16fb2"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe",
+      "id": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/6-series.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/6-series",
+      "id": "f54f61619476ebdb97e147eb6d7d066398cf1a15"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/7-series.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/7-series",
+      "id": "dedb726facfb0fab93502f45506d740d2c7df785"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/8-series/convertible/2022/bmw-serije-8-kabriolet-karakteristike.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/8-series/convertible/2022/bmw-serije-8-kabriolet-karakteristike",
+      "id": "eb135be98e8b05add89a73964bf98459c93d5fdc"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/8-series/gran-coupe/2022/Bmw-serija-8-gran-kupe-glavne-odlike.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/8-series/gran-coupe/2022/bmw-serija-8-gran-kupe-glavne-odlike",
+      "id": "af8821670fce5a387baf903ff728a708fc40912d"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/bmw-i/i4/bmw-i4-gran-coupe.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/bmw-i/i4/bmw-i4-gran-coupe",
+      "id": "0c88e42ed2edfb48e5896f06f61c7f8fe1ab81e5"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/bmw-i/i5/bmw-i5-touring.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/bmw-i/i5/bmw-i5-touring",
+      "id": "453cd50e8f5583983c9237c2d5e29052600e1670"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/bmw-i/iX1/2022/bmw-ix1-highlights.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/bmw-i/ix1/2022/bmw-ix1-highlights",
+      "id": "8400c68f4a4cb9c4da1f704beba7bb216fba8999"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/bmw-i/ix2/bmw-ix2-overview.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/bmw-i/ix2/bmw-ix2-overview",
+      "id": "81fdb66cc17080ca8edb31b5d9e6660bf0f693c4"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/bmw-limuzine-pregled.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/bmw-limuzine-pregled",
+      "id": "6db7aba97557a683114890193210ada4c4d30a98"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/bmw-serija-5-pregled.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/bmw-serija-5-pregled",
+      "id": "d03c9cdddff773843d23105365c6b812851bfeea"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/bmw-serija-5-pregled/5-series-touring/bmw-serije-5-touring.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/bmw-serija-5-pregled/5-series-touring/bmw-serije-5-touring",
+      "id": "eeb9457110b8ab1f7bb922ce0506075a349e9342"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/bmw-4-m-model/bmw-m4-kabriolet.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/m-series/bmw-4-m-model/bmw-m4-kabriolet",
+      "id": "5240f18a33056123112de75f323976cf5559b96a"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/bmw-i5-m60/bmw-i5-m60xdrive-pregled.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/m-series/bmw-i5-m60/bmw-i5-m60xdrive-pregled",
+      "id": "f1d3ca90f93ba1237041f68c549af515f4009b3f"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/bmw-m-135/bmw-m135.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/m-series/bmw-m-135/bmw-m135",
+      "id": "5fab76c89d201688cfad65cd3196f9278446e2f4"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/bmw-m760e-xdrive/2023/bmw-serija-7-m-automobili-pregled.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/m-series/bmw-m760e-xdrive/2023/bmw-serija-7-m-automobili-pregled",
+      "id": "327f44bb8ee211980d73031afaf931811f8c993c"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/i4-m50/bmw-i4-m50-xdrive-gran-coupe.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/m-series/i4-m50/bmw-i4-m50-xdrive-gran-coupe",
+      "id": "661d309a9d4fe917085f6160462360b5c1e1d6fb"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/i5-m60/bmw-i5-touring-m60-xdrive.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/m-series/i5-m60/bmw-i5-touring-m60-xdrive",
+      "id": "96d53a8b47f6cb2b57bb70d709ddff53e1d01e08"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/m-modeli-bmw-serije-3/bmw-m3-sedan.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/m-series/m-modeli-bmw-serije-3/bmw-m3-sedan",
+      "id": "89b2cbb051913a6554926003790a1354718dd36e"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/m-modeli-bmw-serije-3/bmw-m3-touring.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/m-series/m-modeli-bmw-serije-3/bmw-m3-touring",
+      "id": "9f6930bdd717530da2a77b96a57bd6814731cc08"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/m235-xdrive-gran-coupe/bmw-m235-xdrive-gran-coupe.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/m-series/m235-xdrive-gran-coupe/bmw-m235-xdrive-gran-coupe",
+      "id": "5956f8bb25446e94290104176470102a9f9e4eef"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/m5-series/bmw-m5-touring.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/m-series/m5-series/bmw-m5-touring",
+      "id": "57455c5e4126bd520dd10813f9e43254e798f2c4"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/x1-m35i/bmw-x1-m35i-xdrive-suv.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/m-series/x1-m35i/bmw-x1-m35i-xdrive-suv",
+      "id": "b8228a0c4cd28882e6ac96edfb1c3549e1e19fed"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/x6-m/2023/bmw-x6-m-automobili-detalji.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/m-series/x6-m/2023/bmw-x6-m-automobili-detalji",
+      "id": "29344576c29544c6f0ec43421102561c93784e71"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/x-series/x1/bmw-x1.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/x-series/x1/bmw-x1",
+      "id": "de20f8650478161577d12e70faabb9521a5f0445"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/x-series/x2/bmw-x2-pregled.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/x-series/x2/bmw-x2-pregled",
+      "id": "372aced4616fd0898e9416b7c95c26635762b5d9"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/x-series/x3/bmw-x3-phev.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/x-series/x3/bmw-x3-phev",
+      "id": "e9644b9b12209c429428b07545e7d78203fca641"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/x-series/X4/2021/Bmw-X4-detalji.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/x-series/x4/2021/bmw-x4-detalji",
+      "id": "302cd1e317b4440b607ce08fd44922fb63114c8b"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/x-series/X5/2023/bmw-x5-pregled.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/x-series/x5/2023/bmw-x5-pregled",
+      "id": "1185bf1fcbbb77242e87643abec10a4586fcad1c"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/x-series/x7/2022/bmw-x7-pregled.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/x-series/x7/2022/bmw-x7-pregled",
+      "id": "defa153b80419d5e5f781a1223933f13a2ec74b7"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/z-series.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/all-models/z-series",
+      "id": "77050f61de001cd588d6b832d444c7a2e9a49d2c"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/digital-services/bmw-digital-key.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/digital-services/bmw-digital-key",
+      "id": "9a2bff44299858b450c363a426f0f2d63823e99d"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/digital-services/bmw-idrive.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/digital-services/bmw-idrive",
+      "id": "907b8ba2d1e52d0e40a9d292ce0d91f939eb4c07"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/elektricni-automobili/napajanje-elektricnih-automobila.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/elektricni-automobili/napajanje-elektricnih-automobila",
+      "id": "0139b3189eb393494a5fe43a70b7393557b0f1c8"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/elektricni-automobili/plug-in-hibrid.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/elektricni-automobili/plug-in-hibrid",
+      "id": "0e60a0793b001ea0f098fa8461c160345aaf9081"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/elektricni-automobili/troskovi-odrzavanja-elektricnih-automobila.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/elektricni-automobili/troskovi-odrzavanja-elektricnih-automobila",
+      "id": "40a87271f3e2e3b6ced4e0ff947a03e31390aff8"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/fastlane/bmw-dileri.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/fastlane/bmw-dileri",
+      "id": "777c7d846ba9bbae9fcbc602c30d302512c01e9f"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/fastlane/bmw-dileri/Autogarant.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/fastlane/bmw-dileri/autogarant",
+      "id": "ad6b0e62d696b9c14b20bc3191df1585948d45b5"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/fastlane/bmw-dileri/bmw-delta-auto-servis.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/fastlane/bmw-dileri/bmw-delta-auto-servis",
+      "id": "854033cb44a1ec474b4cb7df1b21eba869be396e"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/fastlane/bmw-dileri/delta-motors.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/fastlane/bmw-dileri/delta-motors",
+      "id": "9cc2b7a4c4dda2bdac7351499909ed99087a982d"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/fastlane/bmw-dileri/Mitic.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/fastlane/bmw-dileri/mitic",
+      "id": "77ecfa2db6b0ab307d99e4aef7309d87e9a79031"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/fastlane/bmw-dileri/radulovic.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/fastlane/bmw-dileri/radulovic",
+      "id": "3ea06cdda208aae0d299f132e4c21ab84e224c68"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/fastlane/bmw-dileri/Stefanovic.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/fastlane/bmw-dileri/stefanovic",
+      "id": "44f1fd5a2f937d791a6467bfb1dd429945e82f34"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/fastlane/bmw-dileri/the-bmw-store.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/fastlane/bmw-dileri/the-bmw-store",
+      "id": "d70063068ad386458b09406f1a3e0187742abf6d"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/fastlane/bmw-dileri/voli-motors.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/fastlane/bmw-dileri/voli-motors",
+      "id": "f8eedd6b7a4d1eb25f4745ac93e70929b32a72ad"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/footer/footer-section/cookie-policy.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/footer/footer-section/cookie-policy",
+      "id": "eba1b3c3faa0f7f5a58767e3a5511ef9aceac665"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/footer/metanavigation/legal-notice-pool/imprint.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/footer/metanavigation/legal-notice-pool/imprint",
+      "id": "bee9615f265972202e8eae0b6f0552b5089e3e37"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/index.html",
+      "source": "CRAWL",
+      "targetPath": "/sr",
+      "id": "72ac9dae01d1c54d2bc0be5c3a5610119137ea83"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/more-bmw/bmw-individual.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/more-bmw/bmw-individual",
+      "id": "a830f4d2a1ce308e4b4fc27effa4c7bddb399ad1"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/more-bmw/exclusive-bmw-cars.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/more-bmw/exclusive-bmw-cars",
+      "id": "40dac4105e0500cfbb24d9777c9b745bedfe0b06"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/more-bmw/nova-klasa.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/more-bmw/nova-klasa",
+      "id": "db85043e5a14265d3632a979665b60f48d617a5b"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/more-bmw/skip-to-joy.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/more-bmw/skip-to-joy",
+      "id": "dc88fc87877455cb4fcc2a3f53a59fb0437fa181"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/more-bmw/technology-and-innovation/bmw-heart-of-joy.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/more-bmw/technology-and-innovation/bmw-heart-of-joy",
+      "id": "0f0fc740adc673f761a2ce354c455c362a6ebdd8"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/ssl/requests/RFO.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/ssl/requests/rfo",
+      "id": "553a146f6dc64ffcecffccbc9dd50f27a8a9cc30"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/ssl/Zakazivanje-serivsa_new.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/ssl/zakazivanje-serivsa-new",
+      "id": "5987bcc7ae916aabf85c0678676ee4780fb2c33b"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/ssl/Zakazivanje-serivsa-autogarant.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/ssl/zakazivanje-serivsa-autogarant",
+      "id": "4f3e4f2a35f6b4f0349b3d8f4200a9ce75db65fb"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/ssl/Zakazivanje-serivsa-radulovic-ns.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/ssl/zakazivanje-serivsa-radulovic-ns",
+      "id": "6549bf5b3877b3f098212e59b9e203a1c9b185d7"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/ssl/Zakazivanje-serivsa-stefanovic.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/ssl/zakazivanje-serivsa-stefanovic",
+      "id": "228b227e4f366bc7e9c14feaa400ffa066e754c3"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/stocklocator.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/stocklocator",
+      "id": "8d8b73655b648774632b68c46ef0c41d462887cf"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-biznis-liga.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/fascination-bmw/bmw-biznis-liga",
+      "id": "c98ac680597e23ac85780e75b6790a6e02b2808d"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-biznis-liga/bmw-biznis-liga-2021.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/fascination-bmw/bmw-biznis-liga/bmw-biznis-liga-2021",
+      "id": "73ea08595dd5a62be1690c0cd48507b536ed2cd1"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-price.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/fascination-bmw/bmw-price",
+      "id": "56e76dbbb8e89b3779a0ca7b7d9ed86a6bd8f811"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-price/cuveni-stiv-makari-sa-bmw-ix-om-u-magicnoj-skotskoj.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/fascination-bmw/bmw-price/cuveni-stiv-makari-sa-bmw-ix-om-u-magicnoj-skotskoj",
+      "id": "536c45d943babbe70f0bcbc447b0ab3d21f69cb5"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-price/kreirajte-muzicke-hitove-uz-bmw-i-tomorrowland.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/fascination-bmw/bmw-price/kreirajte-muzicke-hitove-uz-bmw-i-tomorrowland",
+      "id": "6f2a9e500907858a42428eb27dfa7d5c1b30947a"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-price/redefinisani-luksuz.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/fascination-bmw/bmw-price/redefinisani-luksuz",
+      "id": "1576b2bf87e9599e2963215ef7ef1423c7d75f8e"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-price/sedam-velicanstvenih-iz-50-godisnje-istorije-bmw-m.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/fascination-bmw/bmw-price/sedam-velicanstvenih-iz-50-godisnje-istorije-bmw-m",
+      "id": "638d1c53dbbc1bef5c8978295efed1bdba1465ca"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-price/virtuelna-ima-vozi-bmw-i4-m50.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/fascination-bmw/bmw-price/virtuelna-ima-vozi-bmw-i4-m50",
+      "id": "0fddde9f750e5cca024c73eb72ebf6f29218c64c"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmwomen.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/fascination-bmw/bmwomen",
+      "id": "0993dc7028730e055dd21fff00a0b7d56de37f55"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmwomen/potpuno-novi-bmw-serije-5-simbol-prestiza-i-luksuza.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/fascination-bmw/bmwomen/potpuno-novi-bmw-serije-5-simbol-prestiza-i-luksuza",
+      "id": "0a27692dc78747eb2d2f2b7ad54a60f6154f0bb1"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmwomen/zene-koje-su-obelezile-svetsku-auto-industriju.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/fascination-bmw/bmwomen/zene-koje-su-obelezile-svetsku-auto-industriju",
+      "id": "55cec3a31185fb5a296882cc96ee409245d7c532"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/efficient-dynamics/potrosnja-emisije.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/fascination-bmw/efficient-dynamics/potrosnja-emisije",
+      "id": "82a4a3a2604aa4dde9bbe3ad2c854e3532b7e447"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/news/news-2021.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/fascination-bmw/news/news-2021",
+      "id": "4e87d41b3e78d37ad7d97c2f477fd3c3e48943da"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/bmw-cenovnik.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/offers-and-services/bmw-cenovnik",
+      "id": "e9b093eb3f8ad52a59e602be83f389394f3459d6"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/bmw-corporate-aftersales.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/offers-and-services/bmw-corporate-aftersales",
+      "id": "1f29b46ffe2bbcccdd7837cd877ddbf054476e5e"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/bmw-korisnicka-podrska.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/offers-and-services/bmw-korisnicka-podrska",
+      "id": "4b874f2ef9477b8a2f002034cc9c93ff33c96962"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/bmw-salon-i-servis-iz-vaseg-doma.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/offers-and-services/bmw-salon-i-servis-iz-vaseg-doma",
+      "id": "25a5e21fbdc976ed55f33dbacb7ac15a22a11c55"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/bmw-special-sales/bmw-diplomatic-sales.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/offers-and-services/bmw-special-sales/bmw-diplomatic-sales",
+      "id": "f2e5ac24983f6970a30d22df8e4b1f8bd83e80ea"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/bmw-special-sales/sustainability.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/offers-and-services/bmw-special-sales/sustainability",
+      "id": "cc38c2af12280167c28330293afff7aa1438b372"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/bmw-special-sales/sustainability/bmw-posebne-prodajne-ponude-odrzivost-pregled.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/offers-and-services/bmw-special-sales/sustainability/bmw-posebne-prodajne-ponude-odrzivost-pregled",
+      "id": "5895bf6d12a30c8a775d6fda97434d26b070d52d"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/dezinfekcija-vozila.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/offers-and-services/dezinfekcija-vozila",
+      "id": "2df7997dfa42937d052fab59e79107925136c494"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/financial-services-2020/bmw-lizing.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/offers-and-services/financial-services-2020/bmw-lizing",
+      "id": "a2fcf87d00bf84f49fa5d5f07a2abcb6443a373f"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/service-workshop.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/offers-and-services/service-workshop",
+      "id": "1939016f83ff7893da063fc9fc2f42ded7c6bc31"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/service-workshop/bmw-servis-odrzavanje-proaktivna-nega-pregled.html",
+      "source": "CRAWL",
+      "targetPath": "/sr/topics/offers-and-services/service-workshop/bmw-servis-odrzavanje-proaktivna-nega-pregled",
+      "id": "25fe3cfe0df81799db54b023d32f1797a9840bef"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.bmw.rs/",
+      "status": "301 Moved Permanently Redirect: https://www.bmw.rs/sr/index.html"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-lifestyle/bmw-lifestyle-katalog.html",
+      "status": "301 Moved Permanently Redirect: https://www.bmw.rs/sr/more-bmw/bmw-lifestyle.html"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/ssl/test-drive.html",
+      "status": "301 Moved Permanently Redirect: https://www.bmw.rs/sr/ssl/requests/tda.html"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/corporate-direct-sales/pregled.html",
+      "status": "301 Moved Permanently Redirect: https://www.bmw.rs/sr/topics/offers-and-services/bmw-special-sales/bmw-special-sales-overview.html"
+    },
+    {
+      "url": "https://www.bmw.rs/sr_RS/all-models/x-series/iX3/2021/bmw-ix3-highlights.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/financial-services-2020.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/bmw-digital-services-and-connectivity.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.bmw.rs/sr_RS/topics/fascination-bmw/electromobility/overview.html",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/configurator.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/stocklocator.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/elektricni-automobili.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/elektricni-automobili/domet-elektricnih-automobila.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/elektricni-automobili/napajanje-elektricnih-automobila/napajanje-kod-kuce.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/elektricni-automobili/napajanje-elektricnih-automobila/javni-punjaci.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/elektricni-automobili/tutorijali.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/posebne-ponude.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/BMW-ConnectedDrive.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/bmw-digital-services-and-connectivity/sva-remote-software-azuriranja.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/efficient-dynamics/upravljanje-energijom.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/efficient-dynamics/electric-drivetrain.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/efficient-dynamics/bmw-oznacavanje-guma.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/more-bmw/icons-of-joy.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/more-bmw/XRange-Campaign.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/fastlane/bmw-vehicle-recalls.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/servis-portal/bmw-service.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/ssl/contact.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/more-bmw/parts-and-accessories/bmw-svi-aksesoari.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr_RS/topics/offers-and-services/original-bmw-accessories1/original-bmw-accessories-spring-summer-2024.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/more-bmw/parts-and-accessoires/bmw-autumn-winter-accessories.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/vehicle-service-parts/originalno-bmw-motorno-ulje.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/bmw-special-sales/bmw-special-sales-overview.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/bmw-special-sales/bmw-protection-vehicles.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/bmw-special-sales/bmw-protection-vehicles/bmw-specijalne-prodajne-ponude-bmw-serija-7-protection.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/bmw-special-sales/bmw-corporate-sales.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/bmw-special-sales/pregled-bmw-vozila-za-javne-sluzbe.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/more-bmw/novosti-2025.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/50-godina-bmw-m.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/x-series/ix3/bmw-ix3.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/1-series/bmw-serija-1/bmw-serija-1.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/ssl/newsletter.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/ssl/requests/rfo.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/ssl/requests/tda.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/karijera.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/footer/metanavigation/legal-disclaimer-pool/legal-disclaimer.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/footer/metanavigation/legal-notice-pool/podaci-o-licnosti.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/bmw-i/ix/bmw-ix.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/ix-m70/bmw-ix-m70.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/bmw-i/i7/2022/bmw-i7-sedan-detalji.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/bmw-m760e-xdrive/2023/bmw-serija-7-m-automobili-pregled.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/bmw-i/i5/bmw-i5-pregled.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/stocklocator.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/stocklocator.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/xm/bmw-xm.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/stocklocator.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/x7-m60i/2022/bmw-x7-m60i-pregled.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/x-series/X6/2023/bmw-x6-detalji.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/stocklocator.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/x5-m/bmw-x5-m-modeli.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/x4-m/2021/bmw-x4m-automobili-detalji.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/x-series/x3/bmw-x3.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/x3-m50/bmw-x3-m50.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/x2-m35i/bmw-x2-m35ixdrive-pregled.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/m8-gran-coupe/2022/bmw-serija-8-gran-kupe-m-automobili-pregled.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/m8-convertible/2022/bmw-serija-8-kabriolet-m-automobili-pregled.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/stocklocator.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/m8-coupe/2022/bmw-8-serija-coupe-m-automobili-pregled.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/m5-series/bmw-m5-sedan.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/4-series-m440i/bmw-m440i-xdrive-gran-coupe.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/bmw-4-m-model/bmw-m4-coupe.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/stocklocator.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/m-modeli-bmw-serije-2/bmw-m2-coupe.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/z4-m40i/bmw-z4-m40i-roadster.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/8-series/coupe/2022/bmw-serija-8-coupe-glavne-odlike.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/7-series/sedan/2022/bmw-serija-7-limuzina-m-automobili-detalji.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/7-series/sedan/2022/bmw-serija-7-limuzina-m-automobili-detalji.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/bmw-serija-5-pregled/sedan/bmw-serija-5-limuzina-pregled.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/stocklocator.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/bmw-serija-5-pregled/sedan/bmw-serija-5-limuzina-phev-pregled.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/bmw-serija-5-pregled/5-series-touring/bmw-serija-5-touring-phev.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serija-3-limuzina-plug-in-hibrid.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/2-series/coupe/2021/bmw-serija-2-coupe-glavne-odlike.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/2-series/gran-coupe/bmw-serije-2-gran-coupe.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/2-series/activetourer/2021/bmw-serija-2-active-tourer-karakteristike.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/stocklocator.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/z-series/z4-roadster/bmw-z4-roadster.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/BMW-konceptno-vozilo/bmw-ix5-hydrogen-pregled.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/8-series.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/x-series.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/bmw-i.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/fastlane/bmw-dileri/NoviSad-Radulovic.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr_RS/more-bmw/sustainability/sustainability-vehicles-materials-production.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr_RS/all-models/i-series/bmw-ix-new/2021/bmw-ix.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/ssl/Zakazivanje-serivsa-delta.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/ssl/Zakazivanje-serivsa-radulovic-bgd.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/ssl/Zakazivanje-serivsa-delta-servis.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/ssl/Zakazivanje-serivsa-mitic.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/stocklocator.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/bmw-financial-services/bmw-premium-financing.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/vehicle-service-parts.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr_RS/topics/offers-and-services/original-bmw-accessories1/original-bmw-accessories-spring-summer.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/personal-services.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/content/bmw/marketB4R1/master/en_BQ/fastlane/used-automobiles/used-car-search.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr_RS/topics/offers-and-services/original-bmw-accessories1/winter-special.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/bmw-special-sales.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/more-bmw/parts-and-accessories/bmw-svi-aksesoari.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/bmw-special-sales/sustainability/bmw-posebne-prodajne-ponude-odrzivost-centar-upravljanje-pregled.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/bmw-special-sales/sustainability/bmw-posebne-prodajne-ponude-odrzivost-centar-drustveni-aspekti-pregled.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/bmw-special-sales/sustainability/bmw-posebne-prodajne-ponude-odrzivost-centar-ekoloski-aspekti-pregled.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-podcast.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/electromobility2020-new.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/more-bmw/bmw-lifestyle.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-engine-analyzer.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-x-plorer-days.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-xm-campaign.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-price/bmw-m-hybrid-v8-kao-umetnicko-delo.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-price/bmw-transformacija-za-elektricnu-eru.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-price/zadovoljstvo-u-voznji-koje-traje-zauvek.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-price/bmw-vision-neue-klasse-buducnost-je-svetla.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-price/arnold--varceneger-x-bmw-x-vision-dee.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-price/nova-interpretacija-luksuza.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-price/bmw-cirkularnost-od-hollywooda-do-reciklaze.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-price/bmw-tehnologija-budunosti.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-price/bmw-m-legend-johen-nerpa----inspirativni-mentor.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-price/velikani-dizajna-otkrivaju-kako-nastaju-klasici.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-price/Farovi-koji-obasjavaju-buducnost-BMW-x-Swarovski.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-price/Ljubav-koja-ne-prestaje-Zbogom-BMW-i3.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-price/pop-8-x-jeff-koons-bmw-iz-snova.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-price/upoznajte-bmw-i-vision-circular-automobil-buducnosti.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-price/bmw-isetta-ikona-automobilske-industrije.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmwomen/bmw-xm-mystique-allure-i-naomi-kembel.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmwomen/bmw-x-esther-mahlangu.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmwomen/naomi-kembel-i-ekstravagantni-bmw-xm.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmwomen/za-zene-sa-stilom-novi-bmw-x1-spoj-elegancije-i-komfora.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmwomen/koacela-avantura-dodze-ket-u-bmw-ix.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmwomen/bmwomen-matinee.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-biznis-liga/bmw-biznis-liga-2024.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-biznis-liga/bmw-biznis-liga-2023.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-biznis-liga/bmw-biznis-liga-2022.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/m-modeli-bmw-serije-3/bmw-m3-touring.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/servis-portal.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/fascination-bmw/bmw-individual.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/topics/offers-and-services/BMW-ConnectedDrive.html",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/ssl/requests/RFO.html?modelRange=G60",
+      "status": "The operation was aborted due to timeout"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/m-series/bmw-i5-m60/bmw-i5-m60-xdrive-tehnicki-podaci.html",
+      "status": "The operation was aborted due to timeout"
+    }
+  ],
+  "errorCountMessage": "{\"E_301\":4,\"E_404\":5,\"others\":138}",
+  "error": null
+}
