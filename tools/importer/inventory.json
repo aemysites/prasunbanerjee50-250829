@@ -1078,7 +1078,8 @@
           "uuid": "f433a74b-01-c9156db251f7ebb05556ed08d6a80cca611eb1a9",
           "xpath": "/html[1]/body[1]/div[3]/div[4]"
         }
-      ]
+      ],
+      "key": "unknown23"
     },
     {
       "name": "unknown",
@@ -1090,7 +1091,8 @@
           "uuid": "3d40f7db-03-789d1e49cac7fb3a29ba94a9bb3ac5d88aae09a6",
           "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]"
         }
-      ]
+      ],
+      "key": "unknown24"
     },
     {
       "name": "Cards",
