@@ -1,0 +1,92 @@
+{
+  "templates": [
+    {
+      "name": "'Dashboard Template'",
+      "cluster": 1,
+      "pages": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series.html",
+          "uuid": "f433a74bf8028cc7bccf83d8436d7383d257a30e"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/1-series.html",
+          "uuid": "1cc26766dcc9a3dac4b21fcef21d5b2cc1df0cf6"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+          "uuid": "1f949e610405f29a8797e5feec8c306abf9581e9"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+          "uuid": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+          "uuid": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard'",
+      "cluster": 4,
+      "pages": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+          "uuid": "830848895228d6add9955fb1aa65acda8f4c1bef"
+        }
+      ]
+    },
+    {
+      "name": "'product showcase'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+          "uuid": "89bf8776077b273d55d18f84496242cc92f16fb2"
+        }
+      ]
+    },
+    {
+      "name": "Product Listing Template",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+          "uuid": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Gallery'",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+          "uuid": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e"
+        }
+      ]
+    },
+    {
+      "name": "'Directory Listing Page'",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models.html",
+          "uuid": "3d40f7dba70d4221ffe953d0ba93449da9265797"
+        }
+      ]
+    }
+  ]
+}

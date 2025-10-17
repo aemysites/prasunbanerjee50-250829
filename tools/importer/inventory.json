@@ -1,0 +1,2233 @@
+{
+  "fragments": [
+    {
+      "name": "nav",
+      "path": "/nav",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/1-series.html",
+          "urlHash": "1cc26766dcc9a3dac4b21fcef21d5b2cc1df0cf6",
+          "uuid": "1cc26766-00-77f6a7e8c8716c9daabb49d3c8b509d80aec90b4",
+          "xpath": "/html[1]/body[1]/div[3]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+          "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+          "uuid": "1f949e61-00-77f6a7e8c8716c9daabb49d3c8b509d80aec90b4",
+          "xpath": "/html[1]/body[1]/div[3]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+          "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+          "uuid": "3903208f-00-8cf3dea98a2449d61cfe31f917e7fec9fe953299",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]/nav[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models.html",
+          "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+          "uuid": "3d40f7db-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+          "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+          "uuid": "3fd593ae-00-8cf3dea98a2449d61cfe31f917e7fec9fe953299",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]/nav[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+          "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+          "uuid": "83084889-00-8cf3dea98a2449d61cfe31f917e7fec9fe953299",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]/nav[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+          "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+          "uuid": "89bf8776-00-8cf3dea98a2449d61cfe31f917e7fec9fe953299",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]/nav[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+          "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+          "uuid": "9a5da9c3-00-8cf3dea98a2449d61cfe31f917e7fec9fe953299",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]/nav[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+          "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+          "uuid": "adcb5f9e-00-8cf3dea98a2449d61cfe31f917e7fec9fe953299",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]/nav[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series.html",
+          "urlHash": "f433a74bf8028cc7bccf83d8436d7383d257a30e",
+          "uuid": "f433a74b-00-77f6a7e8c8716c9daabb49d3c8b509d80aec90b4",
+          "xpath": "/html[1]/body[1]/div[3]/div[2]"
+        }
+      ],
+      "styles": {
+        "height": 85
+      }
+    },
+    {
+      "name": "footer",
+      "path": "/footer",
+      "totalBoxes": 1,
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/1-series.html",
+          "urlHash": "1cc26766dcc9a3dac4b21fcef21d5b2cc1df0cf6",
+          "uuid": "1cc26766-15-3575c063a2d0995f2425552b8f65942417dcee21",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+          "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+          "uuid": "1f949e61-24-3575c063a2d0995f2425552b8f65942417dcee21",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+          "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+          "uuid": "3903208f-32-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models.html",
+          "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+          "uuid": "3d40f7db-29-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+          "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+          "uuid": "3fd593ae-35-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+          "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+          "uuid": "83084889-36-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+          "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+          "uuid": "89bf8776-27-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+          "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+          "uuid": "9a5da9c3-37-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+          "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+          "uuid": "adcb5f9e-29-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series.html",
+          "urlHash": "f433a74bf8028cc7bccf83d8436d7383d257a30e",
+          "uuid": "f433a74b-13-3575c063a2d0995f2425552b8f65942417dcee21",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[4]"
+        }
+      ],
+      "styles": {}
+    }
+  ],
+  "blocks": [
+    {
+      "name": "Columns",
+      "cluster": 1,
+      "source": "Columns",
+      "target": "Columns (columns1)",
+      "key": "columns1",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+          "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+          "uuid": "3903208f-25-f1a69ecb9cc9f62a94ed85ee620d7d3de575b39e",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models.html",
+          "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+          "uuid": "3d40f7db-22-f1a69ecb9cc9f62a94ed85ee620d7d3de575b39e",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+          "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+          "uuid": "3fd593ae-28-f1a69ecb9cc9f62a94ed85ee620d7d3de575b39e",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+          "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+          "uuid": "83084889-29-f1a69ecb9cc9f62a94ed85ee620d7d3de575b39e",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+          "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+          "uuid": "89bf8776-20-f1a69ecb9cc9f62a94ed85ee620d7d3de575b39e",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+          "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+          "uuid": "9a5da9c3-30-f1a69ecb9cc9f62a94ed85ee620d7d3de575b39e",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+          "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+          "uuid": "adcb5f9e-22-f1a69ecb9cc9f62a94ed85ee620d7d3de575b39e",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 2,
+      "source": "Columns",
+      "target": "Columns (columns2)",
+      "key": "columns2",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/1-series.html",
+          "urlHash": "1cc26766dcc9a3dac4b21fcef21d5b2cc1df0cf6",
+          "uuid": "1cc26766-05-c051a37877a08e7227e9a9b0385266d9062b471a",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/1-series.html",
+          "urlHash": "1cc26766dcc9a3dac4b21fcef21d5b2cc1df0cf6",
+          "uuid": "1cc26766-06-e2055e5a7f5c12e94e2fee9891c703177d7b0780",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[5]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/1-series.html",
+          "urlHash": "1cc26766dcc9a3dac4b21fcef21d5b2cc1df0cf6",
+          "uuid": "1cc26766-07-8a9c798b4c79e2c5a15c701d320ef44442bbe34e",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[5]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+          "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+          "uuid": "1f949e61-09-bb2560547472a02c70f8a733d6358652346a4614",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[4]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+          "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+          "uuid": "1f949e61-10-0c8c55e4306ce78766808a8a22e988344f81b88c",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[4]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+          "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+          "uuid": "1f949e61-11-b49ad8617276f574e2d04feb269eed913fd12ee4",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[4]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+          "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+          "uuid": "1f949e61-12-ea9195670b64da15f2cac9968fd6c0b7063a94ff",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[4]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+          "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+          "uuid": "1f949e61-13-f1e97ab92c1a2999dd64d147413273603cfe6e9c",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[4]/div[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+          "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+          "uuid": "1f949e61-15-e78ae35b9f8a2921fad8e564d476de13dae8f2ae",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[4]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series.html",
+          "urlHash": "f433a74bf8028cc7bccf83d8436d7383d257a30e",
+          "uuid": "f433a74b-04-bb2560547472a02c70f8a733d6358652346a4614",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[4]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series.html",
+          "urlHash": "f433a74bf8028cc7bccf83d8436d7383d257a30e",
+          "uuid": "f433a74b-05-0c8c55e4306ce78766808a8a22e988344f81b88c",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[4]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series.html",
+          "urlHash": "f433a74bf8028cc7bccf83d8436d7383d257a30e",
+          "uuid": "f433a74b-06-b49ad8617276f574e2d04feb269eed913fd12ee4",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[4]/div[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 3,
+      "source": "Columns",
+      "target": "Columns (columns3)",
+      "key": "columns3",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+          "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+          "uuid": "3903208f-19-f6707440a196ee9934ea5028f9200c51b798c209",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[10]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+          "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+          "uuid": "3fd593ae-12-bcd8dfbee57eae6f96de5e9407d276a46c914928",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+          "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+          "uuid": "3fd593ae-15-1005231874bcc05d4e712d7c8c66bdaccf069361",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+          "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+          "uuid": "3fd593ae-22-f6707440a196ee9934ea5028f9200c51b798c209",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[10]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+          "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+          "uuid": "83084889-10-23993e0d70aa256af5b8c28b12162719403658bc",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+          "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+          "uuid": "83084889-23-f6707440a196ee9934ea5028f9200c51b798c209",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[10]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+          "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+          "uuid": "89bf8776-16-d7e537a6f55801baad6ea3b42cef46389ce50eb4",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+          "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+          "uuid": "9a5da9c3-12-941a962f17da32ac7ee86c7a605e92e64508120c",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+          "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+          "uuid": "9a5da9c3-25-759707bdc4134940ce91528e1649b2771fc43f5d",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[9]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+          "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+          "uuid": "adcb5f9e-12-be48056137c7877ac2d83445829f7f142b907a1c",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+          "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+          "uuid": "adcb5f9e-18-d7e537a6f55801baad6ea3b42cef46389ce50eb4",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 4,
+      "source": "Cards",
+      "target": "Cards (cards4)",
+      "key": "cards4",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+          "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+          "uuid": "3903208f-07-7ae07526718a2d4f6114464152e85d43e36158bb",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+          "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+          "uuid": "3903208f-09-4fba7cb28baed987f157f0c0324074eaaeb6366f",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+          "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+          "uuid": "3903208f-11-1005231874bcc05d4e712d7c8c66bdaccf069361",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+          "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+          "uuid": "3903208f-18-a92ba3169c6b58df71136004cac4c9c14ee39283",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[9]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+          "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+          "uuid": "3fd593ae-09-16e8ad8b1b3defef8d2da7e49fc884bec064ff78",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+          "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+          "uuid": "3fd593ae-13-0676af788b7f2db21f784212921323bccadeb844",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+          "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+          "uuid": "3fd593ae-16-1e63b8477d599e7d8de725fd31c020478fcf8e24",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+          "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+          "uuid": "83084889-07-941a962f17da32ac7ee86c7a605e92e64508120c",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+          "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+          "uuid": "83084889-11-16e8ad8b1b3defef8d2da7e49fc884bec064ff78",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+          "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+          "uuid": "83084889-13-4ab758969046d86e7b1d8b16803316af042611dd",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+          "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+          "uuid": "83084889-15-1005231874bcc05d4e712d7c8c66bdaccf069361",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+          "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+          "uuid": "83084889-22-a92ba3169c6b58df71136004cac4c9c14ee39283",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[9]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+          "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+          "uuid": "89bf8776-11-941a962f17da32ac7ee86c7a605e92e64508120c",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+          "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+          "uuid": "89bf8776-13-7ae07526718a2d4f6114464152e85d43e36158bb",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+          "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+          "uuid": "9a5da9c3-13-be48056137c7877ac2d83445829f7f142b907a1c",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+          "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+          "uuid": "9a5da9c3-15-4ce5ba110ebd1352130b4157cbd45f9ef30793aa",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+          "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+          "uuid": "9a5da9c3-17-7ae07526718a2d4f6114464152e85d43e36158bb",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+          "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+          "uuid": "9a5da9c3-24-1005231874bcc05d4e712d7c8c66bdaccf069361",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+          "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+          "uuid": "adcb5f9e-11-941a962f17da32ac7ee86c7a605e92e64508120c",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+          "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+          "uuid": "adcb5f9e-14-7ae07526718a2d4f6114464152e85d43e36158bb",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 5,
+      "source": "Carousel",
+      "target": "Carousel (carousel5)",
+      "key": "carousel5",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+          "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+          "uuid": "3903208f-14-141e3071dd6930674b47775c0d5d6c6e460fa399",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+          "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+          "uuid": "3fd593ae-19-244a07318ef2970d560b78ab338a959d509459b7",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[9]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+          "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+          "uuid": "83084889-18-4af66476efcc0fb6313f9abc819ce7f1188f4325",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]",
+          "section": "section-1"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+          "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+          "uuid": "9a5da9c3-20-7e4c721401e1e9ba2a50c79071a79017e16bb749",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/swiper-container[1]",
+          "section": "section-1"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 6,
+      "source": "Accordion",
+      "target": "Accordion (accordion6)",
+      "key": "accordion6",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+          "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+          "uuid": "3903208f-23-c6db34eb9d992bb79d85f9b64e4015c209d1fb06",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+          "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+          "uuid": "83084889-27-c6db34eb9d992bb79d85f9b64e4015c209d1fb06",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+          "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+          "uuid": "9a5da9c3-28-01016e79562b328440d6c472dc4ce602894a8d6d",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 7,
+      "source": "Hero",
+      "target": "Hero (hero7)",
+      "key": "hero7",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+          "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+          "uuid": "3903208f-02-dbae7ac0e30adb314fbcb55c1b2bb37e7fc64a0b",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+          "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+          "uuid": "83084889-02-dbae7ac0e30adb314fbcb55c1b2bb37e7fc64a0b",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+          "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+          "uuid": "89bf8776-02-dbae7ac0e30adb314fbcb55c1b2bb37e7fc64a0b",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+          "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+          "uuid": "9a5da9c3-02-dbae7ac0e30adb314fbcb55c1b2bb37e7fc64a0b",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+          "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+          "uuid": "adcb5f9e-02-dbae7ac0e30adb314fbcb55c1b2bb37e7fc64a0b",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Embed (video)",
+      "cluster": 8,
+      "source": "Embed",
+      "target": "Embed (embedVideo8)",
+      "key": "embedVideo8",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/1-series.html",
+          "urlHash": "1cc26766dcc9a3dac4b21fcef21d5b2cc1df0cf6",
+          "uuid": "1cc26766-12-5cbe7032bc9125e12a083fa5bdb0cca34dbf7178",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+          "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+          "uuid": "1f949e61-21-5cbe7032bc9125e12a083fa5bdb0cca34dbf7178",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+          "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+          "uuid": "3903208f-32-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models.html",
+          "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+          "uuid": "3d40f7db-29-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+          "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+          "uuid": "3fd593ae-35-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+          "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+          "uuid": "83084889-36-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+          "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+          "uuid": "89bf8776-27-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+          "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+          "uuid": "9a5da9c3-37-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+          "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+          "uuid": "adcb5f9e-29-75920e914f83ad87c27de6bacc11dfc0321b2c70",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series.html",
+          "urlHash": "f433a74bf8028cc7bccf83d8436d7383d257a30e",
+          "uuid": "f433a74b-10-5cbe7032bc9125e12a083fa5bdb0cca34dbf7178",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 9,
+      "source": "Cards",
+      "target": "Cards (cards9)",
+      "key": "cards9",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/1-series.html",
+          "urlHash": "1cc26766dcc9a3dac4b21fcef21d5b2cc1df0cf6",
+          "uuid": "1cc26766-08-351db82a6cc58df866cbee41faf9f5567a3300df",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+          "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+          "uuid": "1f949e61-17-7825eafa4d76c6fdb56cb1fd7e0a760111845f6b",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[5]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series.html",
+          "urlHash": "f433a74bf8028cc7bccf83d8436d7383d257a30e",
+          "uuid": "f433a74b-07-7825eafa4d76c6fdb56cb1fd7e0a760111845f6b",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 10,
+      "source": "Columns",
+      "target": "Columns (columns10)",
+      "key": "columns10",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/1-series.html",
+          "urlHash": "1cc26766dcc9a3dac4b21fcef21d5b2cc1df0cf6",
+          "uuid": "1cc26766-11-a7b94463f42fe74f433d01f94596405536cd2e94",
+          "xpath": "/html[1]/body[1]/div[3]/div[8]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+          "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+          "uuid": "1f949e61-20-a7b94463f42fe74f433d01f94596405536cd2e94",
+          "xpath": "/html[1]/body[1]/div[3]/div[8]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series.html",
+          "urlHash": "f433a74bf8028cc7bccf83d8436d7383d257a30e",
+          "uuid": "f433a74b-09-a7b94463f42fe74f433d01f94596405536cd2e94",
+          "xpath": "/html[1]/body[1]/div[3]/div[8]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 11,
+      "source": "Header",
+      "target": "Header (header11)",
+      "key": "header11",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/1-series.html",
+          "urlHash": "1cc26766dcc9a3dac4b21fcef21d5b2cc1df0cf6",
+          "uuid": "1cc26766-00-77f6a7e8c8716c9daabb49d3c8b509d80aec90b4",
+          "xpath": "/html[1]/body[1]/div[3]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+          "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+          "uuid": "1f949e61-00-77f6a7e8c8716c9daabb49d3c8b509d80aec90b4",
+          "xpath": "/html[1]/body[1]/div[3]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models.html",
+          "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+          "uuid": "3d40f7db-00-b2c8ec8cc7206114599cd049698cc67e0e048d63",
+          "xpath": "/html[1]/body[1]/header[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series.html",
+          "urlHash": "f433a74bf8028cc7bccf83d8436d7383d257a30e",
+          "uuid": "f433a74b-00-77f6a7e8c8716c9daabb49d3c8b509d80aec90b4",
+          "xpath": "/html[1]/body[1]/div[3]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 12,
+      "source": "Tabs",
+      "target": "Tabs (tabs12)",
+      "key": "tabs12",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+          "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+          "uuid": "3903208f-03-8fb587afc33fb3997aee77295a33efd252f0693c",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+          "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+          "uuid": "3fd593ae-03-8fb587afc33fb3997aee77295a33efd252f0693c",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+          "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+          "uuid": "83084889-03-8fb587afc33fb3997aee77295a33efd252f0693c",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+          "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+          "uuid": "89bf8776-03-8fb587afc33fb3997aee77295a33efd252f0693c",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+          "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+          "uuid": "9a5da9c3-03-8fb587afc33fb3997aee77295a33efd252f0693c",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+          "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+          "uuid": "adcb5f9e-03-8fb587afc33fb3997aee77295a33efd252f0693c",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 13,
+      "source": "Columns",
+      "target": "Columns (columns13)",
+      "key": "columns13",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/1-series.html",
+          "urlHash": "1cc26766dcc9a3dac4b21fcef21d5b2cc1df0cf6",
+          "uuid": "1cc26766-13-fcc5295e8ca8f91a7e6a635d88b172079d6ce696",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+          "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+          "uuid": "1f949e61-22-fcc5295e8ca8f91a7e6a635d88b172079d6ce696",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series.html",
+          "urlHash": "f433a74bf8028cc7bccf83d8436d7383d257a30e",
+          "uuid": "f433a74b-11-fcc5295e8ca8f91a7e6a635d88b172079d6ce696",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 14,
+      "source": "Tabs",
+      "target": "Tabs (tabs14)",
+      "key": "tabs14",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+          "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+          "uuid": "89bf8776-08-407cd50e9964b8052ca3888336d9f3b6c747d526",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+          "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+          "uuid": "9a5da9c3-09-407cd50e9964b8052ca3888336d9f3b6c747d526",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+          "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+          "uuid": "adcb5f9e-08-407cd50e9964b8052ca3888336d9f3b6c747d526",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Tabs",
+      "cluster": 15,
+      "source": "Tabs",
+      "target": "Tabs (tabs15)",
+      "key": "tabs15",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+          "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+          "uuid": "adcb5f9e-05-46d6c5878c29b8faa4ed7e838a577aea0115a216",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 16,
+      "source": "Cards",
+      "target": "Cards (cards16)",
+      "key": "cards16",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/1-series.html",
+          "urlHash": "1cc26766dcc9a3dac4b21fcef21d5b2cc1df0cf6",
+          "uuid": "1cc26766-10-43f561bb67ac7a5f467b13f44b2801cf7297b8d6",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[9]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+          "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+          "uuid": "1f949e61-19-351db82a6cc58df866cbee41faf9f5567a3300df",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[7]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series.html",
+          "urlHash": "f433a74bf8028cc7bccf83d8436d7383d257a30e",
+          "uuid": "f433a74b-08-351db82a6cc58df866cbee41faf9f5567a3300df",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[7]"
+        }
+      ]
+    },
+    {
+      "name": "header",
+      "cluster": 17,
+      "source": "Header",
+      "target": "Header (header17)",
+      "key": "header17",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+          "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+          "uuid": "3903208f-00-8cf3dea98a2449d61cfe31f917e7fec9fe953299",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]/nav[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+          "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+          "uuid": "3fd593ae-00-8cf3dea98a2449d61cfe31f917e7fec9fe953299",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]/nav[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+          "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+          "uuid": "83084889-00-8cf3dea98a2449d61cfe31f917e7fec9fe953299",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]/nav[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+          "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+          "uuid": "89bf8776-00-8cf3dea98a2449d61cfe31f917e7fec9fe953299",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]/nav[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+          "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+          "uuid": "9a5da9c3-00-8cf3dea98a2449d61cfe31f917e7fec9fe953299",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]/nav[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+          "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+          "uuid": "adcb5f9e-00-8cf3dea98a2449d61cfe31f917e7fec9fe953299",
+          "xpath": "/html[1]/body[1]/header[1]/div[1]/div[1]/div[1]/root-shell[1]/div[1]/nav[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 18,
+      "source": "Hero",
+      "target": "Hero (hero18)",
+      "key": "hero18",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/1-series.html",
+          "urlHash": "1cc26766dcc9a3dac4b21fcef21d5b2cc1df0cf6",
+          "uuid": "1cc26766-04-264dcd80557762777e559550afc4036c36381990",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[4]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+          "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+          "uuid": "1f949e61-07-fe61cc7777dfd75ae5e5240333044a57ba46227d",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[3]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series.html",
+          "urlHash": "f433a74bf8028cc7bccf83d8436d7383d257a30e",
+          "uuid": "f433a74b-03-fe61cc7777dfd75ae5e5240333044a57ba46227d",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 19,
+      "source": "Hero",
+      "target": "Hero (hero19)",
+      "key": "hero19",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+          "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+          "uuid": "3903208f-21-44517dfdca477116bf424684704bdc026fa442ee",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[11]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+          "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+          "uuid": "83084889-25-44517dfdca477116bf424684704bdc026fa442ee",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[11]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Table (no header)",
+      "cluster": 20,
+      "source": "Table (no header)",
+      "target": "Table (no header, tableNoHeader20)",
+      "key": "tableNoHeader20",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models.html",
+          "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+          "uuid": "3d40f7db-19-7a47fd4c780472178b8251218390dcf687d74539",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 21,
+      "source": "Hero",
+      "target": "Hero (hero21)",
+      "key": "hero21",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+          "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+          "uuid": "1f949e61-02-49dd5f9d85616a971d16ae3c69252518fdb490de",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 22,
+      "source": "Carousel",
+      "target": "Carousel (carousel22)",
+      "key": "carousel22",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series.html",
+          "urlHash": "f433a74bf8028cc7bccf83d8436d7383d257a30e",
+          "uuid": "f433a74b-02-6670c69d8106585406aaef63268d21abab11bdd6",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 23,
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/1-series.html",
+          "urlHash": "1cc26766dcc9a3dac4b21fcef21d5b2cc1df0cf6",
+          "uuid": "1cc26766-01-c9156db251f7ebb05556ed08d6a80cca611eb1a9",
+          "xpath": "/html[1]/body[1]/div[3]/div[4]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+          "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+          "uuid": "1f949e61-01-c9156db251f7ebb05556ed08d6a80cca611eb1a9",
+          "xpath": "/html[1]/body[1]/div[3]/div[4]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+          "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+          "uuid": "3903208f-01-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models.html",
+          "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+          "uuid": "3d40f7db-01-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+          "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+          "uuid": "3fd593ae-01-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+          "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+          "uuid": "83084889-01-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+          "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+          "uuid": "89bf8776-01-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+          "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+          "uuid": "9a5da9c3-01-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+          "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+          "uuid": "adcb5f9e-01-6e70765a003047818ea5700b557b8d01b43078df",
+          "xpath": "/html[1]/body[1]/div[1]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series.html",
+          "urlHash": "f433a74bf8028cc7bccf83d8436d7383d257a30e",
+          "uuid": "f433a74b-01-c9156db251f7ebb05556ed08d6a80cca611eb1a9",
+          "xpath": "/html[1]/body[1]/div[3]/div[4]"
+        }
+      ]
+    },
+    {
+      "name": "unknown",
+      "cluster": 24,
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models.html",
+          "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+          "uuid": "3d40f7db-03-789d1e49cac7fb3a29ba94a9bb3ac5d88aae09a6",
+          "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 25,
+      "source": "Cards",
+      "target": "Cards (cards25)",
+      "key": "cards25",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+          "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+          "uuid": "adcb5f9e-17-21fd0d70cfe92670c9cc88f1a0bcbe690668b3ba",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 26,
+      "source": "Carousel",
+      "target": "Carousel (carousel26)",
+      "key": "carousel26",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+          "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+          "uuid": "1f949e61-03-eb497d174bef36e08c4d7fb82feaa25875305359",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 27,
+      "source": "Columns",
+      "target": "Columns (columns27)",
+      "key": "columns27",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/1-series.html",
+          "urlHash": "1cc26766dcc9a3dac4b21fcef21d5b2cc1df0cf6",
+          "uuid": "1cc26766-14-0febb78932e5c3768cb21fc109b6eebafabbd9fb",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+          "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+          "uuid": "1f949e61-23-0febb78932e5c3768cb21fc109b6eebafabbd9fb",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+          "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+          "uuid": "3903208f-30-1dc5007cc35dd499dcd929c90eea38cd79bbc193",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models.html",
+          "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+          "uuid": "3d40f7db-27-1dc5007cc35dd499dcd929c90eea38cd79bbc193",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+          "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+          "uuid": "3fd593ae-33-1dc5007cc35dd499dcd929c90eea38cd79bbc193",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+          "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+          "uuid": "83084889-34-1dc5007cc35dd499dcd929c90eea38cd79bbc193",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+          "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+          "uuid": "89bf8776-25-1dc5007cc35dd499dcd929c90eea38cd79bbc193",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+          "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+          "uuid": "9a5da9c3-35-1dc5007cc35dd499dcd929c90eea38cd79bbc193",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+          "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+          "uuid": "adcb5f9e-27-1dc5007cc35dd499dcd929c90eea38cd79bbc193",
+          "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series.html",
+          "urlHash": "f433a74bf8028cc7bccf83d8436d7383d257a30e",
+          "uuid": "f433a74b-12-0febb78932e5c3768cb21fc109b6eebafabbd9fb",
+          "xpath": "/html[1]/body[1]/div[3]/footer[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 28,
+      "source": "Carousel",
+      "target": "Carousel (carousel28)",
+      "key": "carousel28",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/1-series.html",
+          "urlHash": "1cc26766dcc9a3dac4b21fcef21d5b2cc1df0cf6",
+          "uuid": "1cc26766-02-6670c69d8106585406aaef63268d21abab11bdd6",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 29,
+      "source": "Carousel",
+      "target": "Carousel (carousel29)",
+      "key": "carousel29",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+          "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+          "uuid": "89bf8776-15-4fba7cb28baed987f157f0c0324074eaaeb6366f",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Carousel",
+      "cluster": 30,
+      "source": "Carousel",
+      "target": "Carousel (carousel30)",
+      "key": "carousel30",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+          "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+          "uuid": "1f949e61-06-4deb084126cbebe9bca9b1bb07390221b08ae157",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[2]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 31,
+      "source": "Columns",
+      "target": "Columns (columns31)",
+      "key": "columns31",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+          "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+          "uuid": "3fd593ae-08-23993e0d70aa256af5b8c28b12162719403658bc",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 32,
+      "source": "Accordion",
+      "target": "Accordion (accordion32)",
+      "key": "accordion32",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+          "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+          "uuid": "3fd593ae-24-01016e79562b328440d6c472dc4ce602894a8d6d",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+          "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+          "uuid": "89bf8776-18-78835c2aece6c492d5bb9dee16a560e5b91e7877",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        },
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+          "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+          "uuid": "adcb5f9e-20-78835c2aece6c492d5bb9dee16a560e5b91e7877",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Accordion",
+      "cluster": 33,
+      "source": "Accordion",
+      "target": "Accordion (accordion33)",
+      "key": "accordion33",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+          "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+          "uuid": "9a5da9c3-26-f6707440a196ee9934ea5028f9200c51b798c209",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[10]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 34,
+      "source": "Columns",
+      "target": "Columns (columns34)",
+      "key": "columns34",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+          "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+          "uuid": "1f949e61-16-11b9cd8e1634bdd25280fe7e65ab9e572a7d0042",
+          "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[4]/div[1]/div[3]"
+        }
+      ]
+    },
+    {
+      "name": "Columns",
+      "cluster": 35,
+      "source": "Columns",
+      "target": "Columns (columns35)",
+      "key": "columns35",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+          "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+          "uuid": "9a5da9c3-06-b3ade4c336aa148d354bc80eb456aaa7aedf484e",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/div[2]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 36,
+      "source": "Hero",
+      "target": "Hero (hero36)",
+      "key": "hero36",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+          "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+          "uuid": "3fd593ae-02-dbae7ac0e30adb314fbcb55c1b2bb37e7fc64a0b",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[1]"
+        }
+      ]
+    },
+    {
+      "name": "Hero",
+      "cluster": 37,
+      "source": "Hero",
+      "target": "Hero (hero37)",
+      "key": "hero37",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+          "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+          "uuid": "3fd593ae-06-feac1800ae9878ee753fe8f51bfbaa29d64afe08",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[5]"
+        }
+      ]
+    },
+    {
+      "name": "Cards",
+      "cluster": 38,
+      "source": "Cards",
+      "target": "Cards (cards38)",
+      "key": "cards38",
+      "instances": [
+        {
+          "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+          "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+          "uuid": "3fd593ae-26-c5642055c16863bb61edffbc5b474cc3156d2ddc",
+          "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[12]/div[1]/div[1]/div[2]"
+        }
+      ]
+    }
+  ],
+  "outliers": [
+    {
+      "url": "https://www.bmw.rs/sr/all-models/1-series.html",
+      "urlHash": "1cc26766dcc9a3dac4b21fcef21d5b2cc1df0cf6",
+      "uuid": "1cc26766-03-fe61cc7777dfd75ae5e5240333044a57ba46227d",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/1-series.html",
+      "urlHash": "1cc26766dcc9a3dac4b21fcef21d5b2cc1df0cf6",
+      "uuid": "1cc26766-09-47f3ddaed2c99e67296039d693cf6fced1454eb4",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[8]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/1-series.html",
+      "urlHash": "1cc26766dcc9a3dac4b21fcef21d5b2cc1df0cf6",
+      "uuid": "1cc26766-15-3575c063a2d0995f2425552b8f65942417dcee21",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+      "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+      "uuid": "1f949e61-04-15290443e963d3fdf49a5c25e41e51efb154ef8f",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/h3[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+      "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+      "uuid": "1f949e61-05-bbb35c78320ee4d43bae12f011ce3b4970460bd1",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div[2]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+      "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+      "uuid": "1f949e61-08-698e7676ccee128b50ecc38f205183d690091401",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[4]/div[1]/h2[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+      "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+      "uuid": "1f949e61-14-1ecc747a94645041b20bd0c4aee5f414debb0131",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[4]/div[1]/h2[2]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+      "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+      "uuid": "1f949e61-18-cf656acfb68d7f271986b3e527dd03b7fbf9996d",
+      "xpath": "/html[1]/body[1]/div[3]/main[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/2-series.html",
+      "urlHash": "1f949e610405f29a8797e5feec8c306abf9581e9",
+      "uuid": "1f949e61-24-3575c063a2d0995f2425552b8f65942417dcee21",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+      "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+      "uuid": "3903208f-04-9819a76850954e9bc2347a5147b87c6ad6f0e2f2",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+      "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+      "uuid": "3903208f-05-46d6c5878c29b8faa4ed7e838a577aea0115a216",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+      "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+      "uuid": "3903208f-06-5f4543cbd6ebc72f8c96eb9f1d177728ae911194",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+      "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+      "uuid": "3903208f-08-12e9dca37d1a437a50b5b5a4ff4be68dc9be62d9",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+      "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+      "uuid": "3903208f-10-abe8be7b309ce7fb36e6a298e7837b84dc1cbc03",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+      "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+      "uuid": "3903208f-12-25f4fd15ccb875809cd30ba7eed5cdb8b78b9ea0",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+      "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+      "uuid": "3903208f-13-c55d4f8b28c1fc58a417fddd02cb94ec4e77b911",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+      "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+      "uuid": "3903208f-15-dbad7a92940ef632e104840805830e2fff0637cf",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/swiper-container[2]/swiper-slide[1]/div[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+      "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+      "uuid": "3903208f-16-90c161a96b4c9ed037cdcc9e1deb426faebf7d2c",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/swiper-container[2]/swiper-slide[2]/div[1]/button[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+      "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+      "uuid": "3903208f-17-7ded10812c0b78f1f352abca198970de2ae78564",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[9]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+      "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+      "uuid": "3903208f-20-26124b0c099fb2bc72abfcb6ba60305986ee2d09",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[11]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+      "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+      "uuid": "3903208f-22-03fd3db72ba5c696055a5faed3cac7bbcb72e187",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+      "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+      "uuid": "3903208f-24-d79a077343a7e4bba8e6ba7c3342532105d63d7d",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[13]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+      "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+      "uuid": "3903208f-26-db8929b95d2285bc3f4c269aac3c9945b8b11463",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+      "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+      "uuid": "3903208f-27-9a7692c2c8edeb51ef0f0c293f1e17c4dc3bc904",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+      "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+      "uuid": "3903208f-28-73378a44ca32d3796bcf81040434c83dc86ac33e",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+      "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+      "uuid": "3903208f-29-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+      "xpath": "/html[1]/body[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-3-series-sedan/bmw-serije-3-limuzina.html",
+      "urlHash": "3903208f0e58ca54cd7fc997e2b1f22468bcca0e",
+      "uuid": "3903208f-31-36e91c4a6ba54733a96b109d3b092a6bc32a58f5",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+      "uuid": "3d40f7db-02-d69a40c78d97fb786013551eff7b328337c1deb6",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+      "uuid": "3d40f7db-04-057826d55777466ce014a4b587eab4f6bafe0158",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+      "uuid": "3d40f7db-05-43d741a475095d877ba8664d2af5b4925beb1174",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[3]/h2[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+      "uuid": "3d40f7db-06-6643da730f3a80253c8bfe17cf9ab62a54618dac",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[4]/h2[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+      "uuid": "3d40f7db-07-e0ba27d3bdb76e108df2745dfba6a759c8d2d67c",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[5]/h2[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+      "uuid": "3d40f7db-08-41621446dec9f83dba75bc2ccb1998c7230a3ad1",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[6]/h2[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+      "uuid": "3d40f7db-09-1e1a9e01e43cf1ccb546d167ff7f1b515efee823",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[7]/h2[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+      "uuid": "3d40f7db-10-718c0c3634341b2990b8f8df0f51233d650c514d",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[8]/h2[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+      "uuid": "3d40f7db-11-a40214d88ba2169b84005ec33c68ae8ce6e5d100",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[9]/h2[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+      "uuid": "3d40f7db-12-276df0a607f8fc34e5d4ce4b8f03a13e0ece3bbb",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[10]/h2[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+      "uuid": "3d40f7db-13-c744527bd289036971b4b98d6b13415db314b35e",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[11]/h2[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+      "uuid": "3d40f7db-14-10e2f794b4f48958bdd78444643c2f5380ca4b72",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[12]/h2[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+      "uuid": "3d40f7db-15-1afc6368d0958dcbe96ba3cd2bd63d447c3e6911",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[13]/h2[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+      "uuid": "3d40f7db-16-be1bdaf5b599418bc986f58f7860950820d4cd7e",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[14]/h2[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+      "uuid": "3d40f7db-17-3e39038ffd5cc843f0a8ed5dfc81b93ead4c3147",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[15]/h2[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+      "uuid": "3d40f7db-18-5b6355e3908093e05fd61ac803e4b1fcadf6cb0b",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+      "uuid": "3d40f7db-20-6bd27d79f334cf3a3c742906f4abd22e71356460",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+      "uuid": "3d40f7db-21-951d509e09a4f2b193a3f9d2a235a09419dcddb7",
+      "xpath": "/html[1]/body[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+      "uuid": "3d40f7db-23-db8929b95d2285bc3f4c269aac3c9945b8b11463",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+      "uuid": "3d40f7db-24-9a7692c2c8edeb51ef0f0c293f1e17c4dc3bc904",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+      "uuid": "3d40f7db-25-73378a44ca32d3796bcf81040434c83dc86ac33e",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+      "uuid": "3d40f7db-26-7d9e10639d529316d722e05d9b8eeebf7771aed9",
+      "xpath": "/html[1]/body[1]/div[5]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models.html",
+      "urlHash": "3d40f7dba70d4221ffe953d0ba93449da9265797",
+      "uuid": "3d40f7db-28-36e91c4a6ba54733a96b109d3b092a6bc32a58f5",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+      "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+      "uuid": "3fd593ae-04-9819a76850954e9bc2347a5147b87c6ad6f0e2f2",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+      "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+      "uuid": "3fd593ae-05-46d6c5878c29b8faa4ed7e838a577aea0115a216",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+      "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+      "uuid": "3fd593ae-07-5f5ef81347a8a987f3514d5b1ecb8a44e7058360",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+      "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+      "uuid": "3fd593ae-10-c114c76a1e9aa1d650f39a2fa3ee9947b5ae5939",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+      "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+      "uuid": "3fd593ae-11-4ab758969046d86e7b1d8b16803316af042611dd",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+      "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+      "uuid": "3fd593ae-14-abe8be7b309ce7fb36e6a298e7837b84dc1cbc03",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+      "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+      "uuid": "3fd593ae-17-7ded10812c0b78f1f352abca198970de2ae78564",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[9]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+      "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+      "uuid": "3fd593ae-18-f0c042eced951ec71a1e6f7aea7160e66e15557d",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[9]/div[1]/div[1]/div[2]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+      "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+      "uuid": "3fd593ae-20-eee6a83131853ec4bbc3cd26e7964e8115a096e5",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[9]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/swiper-container[2]/swiper-slide[1]/div[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+      "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+      "uuid": "3fd593ae-21-3f77b8b038c98a3ba8d607f6cdd997e1a6afbb49",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[9]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/swiper-container[2]/swiper-slide[3]/div[1]/button[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+      "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+      "uuid": "3fd593ae-23-04d9f5b28dce4318321057e674f28fd273aeff30",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+      "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+      "uuid": "3fd593ae-25-3c380aeb82862d437edf090e3faf0ee29ce67a81",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[12]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+      "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+      "uuid": "3fd593ae-27-d79a077343a7e4bba8e6ba7c3342532105d63d7d",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[13]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+      "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+      "uuid": "3fd593ae-29-db8929b95d2285bc3f4c269aac3c9945b8b11463",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+      "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+      "uuid": "3fd593ae-30-9a7692c2c8edeb51ef0f0c293f1e17c4dc3bc904",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+      "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+      "uuid": "3fd593ae-31-73378a44ca32d3796bcf81040434c83dc86ac33e",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+      "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+      "uuid": "3fd593ae-32-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+      "xpath": "/html[1]/body[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/gran-coupe/bmw-serije-4-gran-coupe.html",
+      "urlHash": "3fd593ae892a2f4d9f7a05652e8c3f21035f4acb",
+      "uuid": "3fd593ae-34-36e91c4a6ba54733a96b109d3b092a6bc32a58f5",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+      "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+      "uuid": "83084889-04-9819a76850954e9bc2347a5147b87c6ad6f0e2f2",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+      "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+      "uuid": "83084889-05-46d6c5878c29b8faa4ed7e838a577aea0115a216",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+      "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+      "uuid": "83084889-06-04b8f46c389e3a5ed2e50a8c08c383c473667d58",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+      "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+      "uuid": "83084889-08-be48056137c7877ac2d83445829f7f142b907a1c",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+      "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+      "uuid": "83084889-09-5f5ef81347a8a987f3514d5b1ecb8a44e7058360",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+      "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+      "uuid": "83084889-12-c114c76a1e9aa1d650f39a2fa3ee9947b5ae5939",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+      "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+      "uuid": "83084889-14-abe8be7b309ce7fb36e6a298e7837b84dc1cbc03",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+      "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+      "uuid": "83084889-16-907bedcc7512f3d93892016967f0b1168301047c",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+      "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+      "uuid": "83084889-17-6bc2091b5936e4a15c23cc1129d6e5e596d0cc4f",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+      "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+      "uuid": "83084889-19-57022a2af1419412b8288d085da2beedeba5997f",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/swiper-container[2]/swiper-slide[1]/div[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+      "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+      "uuid": "83084889-20-cd4ee79c1fe3e044bd87bdd44e5e68efffe35212",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/swiper-container[2]/swiper-slide[2]/div[1]/button[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+      "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+      "uuid": "83084889-21-7ded10812c0b78f1f352abca198970de2ae78564",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[9]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+      "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+      "uuid": "83084889-24-26124b0c099fb2bc72abfcb6ba60305986ee2d09",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[11]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+      "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+      "uuid": "83084889-26-03fd3db72ba5c696055a5faed3cac7bbcb72e187",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[12]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+      "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+      "uuid": "83084889-28-d79a077343a7e4bba8e6ba7c3342532105d63d7d",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[13]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+      "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+      "uuid": "83084889-30-db8929b95d2285bc3f4c269aac3c9945b8b11463",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+      "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+      "uuid": "83084889-31-9a7692c2c8edeb51ef0f0c293f1e17c4dc3bc904",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+      "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+      "uuid": "83084889-32-73378a44ca32d3796bcf81040434c83dc86ac33e",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+      "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+      "uuid": "83084889-33-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+      "xpath": "/html[1]/body[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring-plug-in-hibrid.html",
+      "urlHash": "830848895228d6add9955fb1aa65acda8f4c1bef",
+      "uuid": "83084889-35-36e91c4a6ba54733a96b109d3b092a6bc32a58f5",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+      "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+      "uuid": "89bf8776-04-9819a76850954e9bc2347a5147b87c6ad6f0e2f2",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+      "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+      "uuid": "89bf8776-05-46d6c5878c29b8faa4ed7e838a577aea0115a216",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+      "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+      "uuid": "89bf8776-06-b07d6425a2543cc27003236e45a94c9706c98952",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+      "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+      "uuid": "89bf8776-07-c9e707bf67a7010571c07654377681e8eb2710e1",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+      "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+      "uuid": "89bf8776-09-902d141925d4628141a5eac28bcfbcceb70fc62b",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+      "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+      "uuid": "89bf8776-10-04b8f46c389e3a5ed2e50a8c08c383c473667d58",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+      "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+      "uuid": "89bf8776-12-5f4543cbd6ebc72f8c96eb9f1d177728ae911194",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+      "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+      "uuid": "89bf8776-14-12e9dca37d1a437a50b5b5a4ff4be68dc9be62d9",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+      "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+      "uuid": "89bf8776-17-331714714ba7f9a025ac07f5fa1667b4180986ca",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+      "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+      "uuid": "89bf8776-19-f6707440a196ee9934ea5028f9200c51b798c209",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[10]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+      "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+      "uuid": "89bf8776-21-db8929b95d2285bc3f4c269aac3c9945b8b11463",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+      "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+      "uuid": "89bf8776-22-9a7692c2c8edeb51ef0f0c293f1e17c4dc3bc904",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+      "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+      "uuid": "89bf8776-23-73378a44ca32d3796bcf81040434c83dc86ac33e",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+      "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+      "uuid": "89bf8776-24-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+      "xpath": "/html[1]/body[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/coupe/bmw-serije-4-coupe.html",
+      "urlHash": "89bf8776077b273d55d18f84496242cc92f16fb2",
+      "uuid": "89bf8776-26-36e91c4a6ba54733a96b109d3b092a6bc32a58f5",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+      "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+      "uuid": "9a5da9c3-04-9819a76850954e9bc2347a5147b87c6ad6f0e2f2",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+      "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+      "uuid": "9a5da9c3-05-b449cf266f4ba58235b994372bb21fcf262ed5ef",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[4]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+      "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+      "uuid": "9a5da9c3-07-b07d6425a2543cc27003236e45a94c9706c98952",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+      "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+      "uuid": "9a5da9c3-08-c9e707bf67a7010571c07654377681e8eb2710e1",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+      "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+      "uuid": "9a5da9c3-10-584b84dfb02d7732c0bd9f8d7fac5d0d4560764d",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/ul[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+      "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+      "uuid": "9a5da9c3-11-04b8f46c389e3a5ed2e50a8c08c383c473667d58",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+      "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+      "uuid": "9a5da9c3-14-1c23e2f32b9b483b254a89c212fedb452299c875",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+      "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+      "uuid": "9a5da9c3-16-5f4543cbd6ebc72f8c96eb9f1d177728ae911194",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+      "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+      "uuid": "9a5da9c3-18-0fbc1a4cfbcd933d00e630223db339d5843bc91a",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+      "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+      "uuid": "9a5da9c3-19-21aa43d77ebb819c748a8d4e03cf52ab1d602d59",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+      "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+      "uuid": "9a5da9c3-21-fc1e8660892cdaf28d8e2fb18eb8c7bf2809a98b",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/swiper-container[2]/swiper-slide[1]/div[1]/div[1]",
+      "section": "section-2"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+      "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+      "uuid": "9a5da9c3-22-f35417442db5b2a16f6289ec0263871ec9c5222e",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/swiper-container[2]/swiper-slide[2]/div[1]/button[1]",
+      "section": "section-3"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+      "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+      "uuid": "9a5da9c3-23-abe8be7b309ce7fb36e6a298e7837b84dc1cbc03",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[8]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+      "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+      "uuid": "9a5da9c3-27-04d9f5b28dce4318321057e674f28fd273aeff30",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[11]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+      "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+      "uuid": "9a5da9c3-29-46a467f8406f44b5a2a29c834c8604831f133e27",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[12]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+      "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+      "uuid": "9a5da9c3-31-db8929b95d2285bc3f4c269aac3c9945b8b11463",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+      "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+      "uuid": "9a5da9c3-32-9a7692c2c8edeb51ef0f0c293f1e17c4dc3bc904",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+      "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+      "uuid": "9a5da9c3-33-73378a44ca32d3796bcf81040434c83dc86ac33e",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+      "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+      "uuid": "9a5da9c3-34-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+      "xpath": "/html[1]/body[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/3-series/bmw-serije-3-touring/bmw-serije-3-touring.html",
+      "urlHash": "9a5da9c33c68221f91f3b5dcd651ce9f79613a02",
+      "uuid": "9a5da9c3-36-36e91c4a6ba54733a96b109d3b092a6bc32a58f5",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+      "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+      "uuid": "adcb5f9e-04-9819a76850954e9bc2347a5147b87c6ad6f0e2f2",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+      "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+      "uuid": "adcb5f9e-06-b07d6425a2543cc27003236e45a94c9706c98952",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+      "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+      "uuid": "adcb5f9e-07-c9e707bf67a7010571c07654377681e8eb2710e1",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+      "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+      "uuid": "adcb5f9e-09-584b84dfb02d7732c0bd9f8d7fac5d0d4560764d",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/ul[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+      "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+      "uuid": "adcb5f9e-10-04b8f46c389e3a5ed2e50a8c08c383c473667d58",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[6]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+      "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+      "uuid": "adcb5f9e-13-5f4543cbd6ebc72f8c96eb9f1d177728ae911194",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+      "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+      "uuid": "adcb5f9e-15-12e9dca37d1a437a50b5b5a4ff4be68dc9be62d9",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[3]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+      "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+      "uuid": "adcb5f9e-16-0ebf01f9efb149b209a264e92d58953ceff21969",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[7]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+      "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+      "uuid": "adcb5f9e-19-331714714ba7f9a025ac07f5fa1667b4180986ca",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+      "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+      "uuid": "adcb5f9e-21-f6707440a196ee9934ea5028f9200c51b798c209",
+      "xpath": "/html[1]/body[1]/div[3]/div[1]/div[1]/main[1]/div[1]/div[10]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+      "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+      "uuid": "adcb5f9e-23-db8929b95d2285bc3f4c269aac3c9945b8b11463",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+      "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+      "uuid": "adcb5f9e-24-9a7692c2c8edeb51ef0f0c293f1e17c4dc3bc904",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+      "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+      "uuid": "adcb5f9e-25-73378a44ca32d3796bcf81040434c83dc86ac33e",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[5]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+      "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+      "uuid": "adcb5f9e-26-b336659d6a58b751a90a6f511c6b5bdd1f7d3464",
+      "xpath": "/html[1]/body[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series/convertible/bmw-serije-4-kabriolet.html",
+      "urlHash": "adcb5f9ebf203c8f7cb7dd04b7721b428b5c5eec",
+      "uuid": "adcb5f9e-28-36e91c4a6ba54733a96b109d3b092a6bc32a58f5",
+      "xpath": "/html[1]/body[1]/footer[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[4]"
+    },
+    {
+      "url": "https://www.bmw.rs/sr/all-models/4-series.html",
+      "urlHash": "f433a74bf8028cc7bccf83d8436d7383d257a30e",
+      "uuid": "f433a74b-13-3575c063a2d0995f2425552b8f65942417dcee21",
+      "xpath": "/html[1]/body[1]/div[3]/footer[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[4]"
+    }
+  ],
+  "sections": [
+    {
+      "name": "section-1",
+      "background": "rgb(38, 38, 38) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 4
+    },
+    {
+      "name": "section-2",
+      "background": "rgb(255, 255, 255) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 4
+    },
+    {
+      "name": "section-3",
+      "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+      "count": 4
+    }
+  ]
+}
