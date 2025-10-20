@@ -33,7 +33,6 @@
       "targetPath": "/sr/all-models/x-series/ix3/bmw-ix3",
       "id": "bdc9a803eccc283bebb2c7178913d5d0d138a973"
     }
-    
   ],
   "crawlOptions": {
     "timeout": 10000,
