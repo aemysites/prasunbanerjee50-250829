@@ -32,37 +32,8 @@
       "source": "CRAWL",
       "targetPath": "/sr/all-models/x-series/ix3/bmw-ix3",
       "id": "bdc9a803eccc283bebb2c7178913d5d0d138a973"
-    },
-    {
-      "url": "https://www.bmw.rs/sr/digital-services/bmw-connecteddrive.html",
-      "source": "CRAWL",
-      "targetPath": "/sr/digital-services/bmw-connecteddrive",
-      "id": "92f945d95acb539df834d70cba1ba393437ff676"
-    },
-    {
-      "url": "https://www.bmw.rs/sr/digital-services/bmw-idrive.html",
-      "source": "CRAWL",
-      "targetPath": "/sr/digital-services/bmw-idrive",
-      "id": "907b8ba2d1e52d0e40a9d292ce0d91f939eb4c07"
-    },
-    {
-      "url": "https://www.bmw.rs/sr/elektricni-automobili.html",
-      "source": "CRAWL",
-      "targetPath": "/sr/elektricni-automobili",
-      "id": "c63a83173abf70c98fc0981a01d7bf23e9ab2c7e"
-    },
-    {
-      "url": "https://www.bmw.rs/sr/elektricni-automobili/domet-elektricnih-automobila.html",
-      "source": "CRAWL",
-      "targetPath": "/sr/elektricni-automobili/domet-elektricnih-automobila",
-      "id": "90fb1acb98bfa17e76d1b3d09141021520c6b24a"
-    },
-    {
-      "url": "https://www.bmw.rs/sr/elektricni-automobili/troskovi-odrzavanja-elektricnih-automobila.html",
-      "source": "CRAWL",
-      "targetPath": "/sr/elektricni-automobili/troskovi-odrzavanja-elektricnih-automobila",
-      "id": "40a87271f3e2e3b6ced4e0ff947a03e31390aff8"
     }
+    
   ],
   "crawlOptions": {
     "timeout": 10000,
