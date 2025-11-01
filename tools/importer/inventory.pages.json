@@ -1,34 +1,294 @@
 {
   "templates": [
     {
-      "name": "'Business multi-page'",
+      "name": "'media gallery'",
       "cluster": 1,
       "pages": [
         {
-          "url": "https://www.bmw.rs/sr/all-models/x-series/ix3/bmw-ix3.html",
-          "uuid": "bdc9a803eccc283bebb2c7178913d5d0d138a973"
+          "url": "https://www.accenture.com/de-de/insights-index",
+          "uuid": "45691578a491086e74a33a77d2078ae8c2aeb9d2"
         },
         {
-          "url": "https://www.bmw.rs/sr/all-models/m-series/i4-m50/bmw-i4-m50-xdrive-gran-coupe.html",
-          "uuid": "661d309a9d4fe917085f6160462360b5c1e1d6fb"
+          "url": "https://www.accenture.com/de-de/industries/insurance",
+          "uuid": "6a09fc7a2cf227cf060bd5e311f576dc2e3748f8"
         },
         {
-          "url": "https://www.bmw.rs/sr/all-models/bmw-i/ix2/bmw-ix2-overview.html",
-          "uuid": "81fdb66cc17080ca8edb31b5d9e6660bf0f693c4"
+          "url": "https://www.accenture.com/de-de/industries/industrial-equipment",
+          "uuid": "f8ac28933fc4f62a2c7a4e50270c777acf00ca87"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/industries/natural-resources",
+          "uuid": "43ee12536163fee51c821240ff40faaab01dec24"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/services/managed-services",
+          "uuid": "8f76a6bda103b4e0c8c716e33a63e95044e7b6d0"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/industries/capital-markets",
+          "uuid": "a5e8d62fa750116ec584d6c88e96833fc7ee6172"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/services/infrastructure-capital-projects",
+          "uuid": "edf23fce6d549da6cead8ab705d334c43a88c8d2"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/industries/aerospace-defense",
+          "uuid": "961917ae9b97f8a4ba93c79fd4ac667c1bb24067"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/industries/communications-media",
+          "uuid": "c3d614189c29d99d465accb05d6eb170f2d45b63"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/industries/high-tech",
+          "uuid": "9f31b734e9ae16454381736f113a274e21eeeaea"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/industries/travel",
+          "uuid": "b0871820aff0f3bb3e8935cbcf1f9f0f2530c8cb"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/services/marketing-experience",
+          "uuid": "3459a411ee82a3db22196050e9962bb5b02dbb67"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/services/metaverse",
+          "uuid": "6595356e49c352369acd034e90e3471b2e6f0b93"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/industries/retail",
+          "uuid": "72b1b45790cd88c72efafb0b9adc24c6b7ee643a"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/services/talent-organization",
+          "uuid": "4f4bce529c0d8b3b15f468ca67dc610c41018fa5"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/services/technology-transformation",
+          "uuid": "6fcbb20c78ef3f68ffc58cc0551f1f3785b50584"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/industries/utilities",
+          "uuid": "1e5357f035be1038eb6b61a81938aa9ce92059b7"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/services/supply-chain",
+          "uuid": "1351c5aa5b7d99e35976e77eefd404c3a45c1de9"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/services/cybersecurity",
+          "uuid": "49f49e7d443c44b9310691dae5349e4bc200dcd7"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/services/sustainability",
+          "uuid": "708b2275217de4c5e5b4e0096a0ee0f96110048e"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/services/finance-risk",
+          "uuid": "4779cb276b1161ddd757f2bac10bd6a046e84ac7"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/services/data-ai",
+          "uuid": "395dd13fb8cf47a51044ca1ea60d131c0a96aeca"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/services/strategy",
+          "uuid": "f61b3acd2ff77ff330b6222b774175fbbff98a22"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/services/learning",
+          "uuid": "79f81a7a7babb91b90df8a7ffffd59092dedd79a"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/industries/software-platforms",
+          "uuid": "108779a44119a396ec759bd5f339edf54e67a909"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/services/customer-service",
+          "uuid": "b0ccb3193e0bdcccb7222aea770141dfd06bd1e5"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/industries/chemicals",
+          "uuid": "f7d2c3516084abf90f8bc489da87e5d3ff2e7dc9"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/services/ecosystem-partners",
+          "uuid": "1203c81d701206acfc0762bdb90c90a61735d509"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/industries/private-equity",
+          "uuid": "87445c54ebe2f1c4772f30c974c1cc9b6a1e8a66"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/services/sales-commerce",
+          "uuid": "04da518d3eb36995a7703a19b13e7e7a6813f4e1"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 2,
+      "pages": [
+        {
+          "url": "https://www.accenture.com/de-de/about/leadership",
+          "uuid": "7c3cb490e1686bbc61b9fffb1a141fa4181d0373"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/about/accenture-song-index",
+          "uuid": "34cf3ad250e7ee45bdacf053b91021393f0eef8d"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/about/consulting-index",
+          "uuid": "b7727f4e489a970202d9582025b2e8ab2e8c284c"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/about/company/industry-analyst",
+          "uuid": "e831a1584a6285a9ce17f4a530a64c00679061ef"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/about/company-index",
+          "uuid": "c9eaaf544f38c9b68bb89fa481979dd04f4bf460"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Grid'",
+      "cluster": 3,
+      "pages": [
+        {
+          "url": "https://www.accenture.com/de-de/careers/life-at-accenture/working-here",
+          "uuid": "dbe5aea518c85407857d28838f685dc0e2fa31e8"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/careers/life-at-accenture/work-environment",
+          "uuid": "a09353f3e1c491054e10f985aaf9b50774548598"
         }
       ]
     },
     {
       "name": "'Dashboard Template'",
-      "cluster": 2,
+      "cluster": 4,
       "pages": [
         {
-          "url": "https://www.bmw.rs/sr/all-models/bmw-i/i7/2022/bmw-i7-sedan-detalji.html",
-          "uuid": "bed132b31e900bc93e5b4d08112821e4caeff1e5"
+          "url": "https://www.accenture.com/de-de/services/cloud",
+          "uuid": "38955cd7fe6a52a416c37cee042e46716dec6c3f"
         },
         {
-          "url": "https://www.bmw.rs/sr/all-models/7-series/sedan/2022/bmw-serija-7-limuzina-m-automobili-detalji.html",
-          "uuid": "af5e5740ffd8c2f2dcc6dc0064fc783439381d77"
+          "url": "https://www.accenture.com/de-de/industries/life-sciences",
+          "uuid": "2fd7a5046bb5367061eed5ccacb9b18e697fd55a"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/industries/banking",
+          "uuid": "b6d80d69f0beec2232e8b9ca75f598c96f62783b"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/services/digital-engineering-manufacturing",
+          "uuid": "2e8243f43e3fd284d186d79b44e1afd22ba7d2a6"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/services/emerging-technology",
+          "uuid": "87073298f08ff089281167f328343add43ad8d74"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/industries/automotive",
+          "uuid": "c2507c850adf0e76e2484a9f1a11351db2c6b2e0"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/industries/health",
+          "uuid": "25cf959514845cdf07716ced30f05cc63801374a"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/industries/energy",
+          "uuid": "ac60bbda71c2fa38a5c568efc41cc47cecd15c3b"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/industries/public-service",
+          "uuid": "f273c917928e84f2e8c4fc37497f6611803d006a"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 5,
+      "pages": [
+        {
+          "url": "https://www.accenture.com/de-de/services",
+          "uuid": "4ea2f20789d4624841c54d9ea9c26f9b5461b542"
+        },
+        {
+          "url": "https://www.accenture.com/de-de/careers",
+          "uuid": "4181767a0ca29596582d9c8b137a89cf96dd699c"
+        }
+      ]
+    },
+    {
+      "name": "'dashboard page'",
+      "cluster": 6,
+      "pages": [
+        {
+          "url": "https://www.accenture.com/de-de/careers/jobsearch",
+          "uuid": "c5ebdead4b0b91b3d9547d3c3638b908e3ccd499"
+        }
+      ]
+    },
+    {
+      "name": "'Dashboard Template'",
+      "cluster": 7,
+      "pages": [
+        {
+          "url": "https://www.accenture.com/de-de/about/technology-index",
+          "uuid": "6009214096ef93e9e7f255ac4dd9348c24ddedb7"
+        }
+      ]
+    },
+    {
+      "name": "'portfolio showcase'",
+      "cluster": 8,
+      "pages": [
+        {
+          "url": "https://www.accenture.com/de-de",
+          "uuid": "e40666c25733946282663488901bbe1872e2c4e4"
+        }
+      ]
+    },
+    {
+      "name": "'portfolio gallery'",
+      "cluster": 9,
+      "pages": [
+        {
+          "url": "https://www.accenture.com/de-de/careers/local/benefits",
+          "uuid": "4a9345adb9ae8761592029d680c778b4919d32a4"
+        }
+      ]
+    },
+    {
+      "name": "'FAQ page'",
+      "cluster": 10,
+      "pages": [
+        {
+          "url": "https://www.accenture.com/de-de/about/location",
+          "uuid": "a8111d16358f36baf5848ed5aba999cff60b27ad"
+        }
+      ]
+    },
+    {
+      "name": "'media gallery'",
+      "cluster": 11,
+      "pages": [
+        {
+          "url": "https://www.accenture.com/de-de/about/corporate-sustainability",
+          "uuid": "de0c639c06a2cc1c7723eb3bdc366a19772f3c73"
+        }
+      ]
+    },
+    {
+      "name": "'Portfolio Showcase'",
+      "cluster": 12,
+      "pages": [
+        {
+          "url": "https://www.accenture.com/de-de/about/awards-recognition",
+          "uuid": "61cea605854b0d12eabf7036e3f20d34f370c2e2"
         }
       ]
     }
