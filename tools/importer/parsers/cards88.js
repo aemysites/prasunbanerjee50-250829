@@ -1,41 +1,71 @@
 /* global WebImporter */
 export default function parse(element, { document }) {
-  // Find all carousel slides representing cards
-  const slides = Array.from(
-    element.querySelectorAll('.cmp-carousel__content > .swiper-slide')
-  );
+  // Helper to extract the section heading
+  function getSectionHeading() {
+    const heading = element.querySelector('.cmp-title__text');
+    if (heading) {
+      return heading.cloneNode(true);
+    }
+    const h2 = element.querySelector('h2');
+    return h2 ? h2.cloneNode(true) : null;
+  }
 
-  // Table header row must match block name exactly
+  // Helper to extract all card elements
+  function getCards() {
+    const cardRow = element.querySelector('.cmp-card-listing_second-row');
+    if (!cardRow) return [];
+    return Array.from(cardRow.querySelectorAll('.teaser.icon-card.card, .teaser.icon-card.card.has-tooltip'));
+  }
+
+  // Helper to extract card content
+  function extractCardContent(cardEl) {
+    let imageCell = null;
+    const imageWrap = cardEl.querySelector('.cmp-teaser__image');
+    if (imageWrap) {
+      const imgLink = imageWrap.querySelector('a.cmp-image__link');
+      if (imgLink) {
+        imageCell = imgLink.cloneNode(true);
+      } else {
+        const img = imageWrap.querySelector('img');
+        if (img) imageCell = img.cloneNode(true);
+      }
+    }
+    const textFragments = [];
+    const title = cardEl.querySelector('.cmp-teaser__title');
+    if (title) textFragments.push(title.cloneNode(true));
+    const desc = cardEl.querySelector('.cmp-teaser__description');
+    if (desc) textFragments.push(desc.cloneNode(true));
+    const cta = cardEl.querySelector('.cmp-teaser__action-link');
+    if (cta) textFragments.push(cta.cloneNode(true));
+    return [imageCell, textFragments];
+  }
+
   const headerRow = ['Cards (cards88)'];
   const rows = [headerRow];
 
-  // Parse each card/slide
-  slides.forEach((slide) => {
-    // Extract image: reference the actual <img> element
-    const img = slide.querySelector('.cmp-image__image');
-    let imageEl = img || null;
-
-    // Extract title (first h3 inside slide)
-    const title = slide.querySelector('h3');
-    // Extract description (first p inside slide)
-    const desc = slide.querySelector('p');
-    // Extract CTA (first .cmp-button a inside slide)
-    const cta = slide.querySelector('.cmp-button');
-
-    // Compose text cell: preserve semantic order
-    const textCell = [];
-    if (title) textCell.push(title);
-    if (desc) textCell.push(desc);
-    if (cta) textCell.push(cta);
-
-    // Add row: [image, text content]
+  const cards = getCards();
+  cards.forEach(cardEl => {
+    const [imageCell, textFragments] = extractCardContent(cardEl);
     rows.push([
-      imageEl,
-      textCell
+      imageCell,
+      textFragments
     ]);
   });
 
-  // Create the block table
   const block = WebImporter.DOMUtils.createTable(rows, document);
+
+  // Insert the section heading above the block, safely
+  const sectionHeading = getSectionHeading();
+  if (sectionHeading && block.parentNode) {
+    block.parentNode.insertBefore(sectionHeading, block);
+  } else if (sectionHeading) {
+    // If block has no parent yet, wrap in a fragment
+    const frag = document.createDocumentFragment();
+    frag.appendChild(sectionHeading);
+    frag.appendChild(block);
+    element.replaceWith(frag);
+    return;
+  }
+
   element.replaceWith(block);
 }

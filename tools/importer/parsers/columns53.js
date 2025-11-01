@@ -1,56 +1,37 @@
 /* global WebImporter */
 export default function parse(element, { document }) {
-  // Header row for Columns block
+  // Header row for the columns53 block
   const headerRow = ['Columns (columns53)'];
 
-  // Defensive: Get main content wrapper (first .ds2-micro-story inside the block)
-  const main = element.querySelector('.ds2-micro-story');
-  if (!main) return;
+  // Get the two main columns: image and text
+  // Defensive: select immediate children
+  const children = element.querySelectorAll(':scope > div');
 
-  // Left column: Heading, paragraph, and list
-  const title = main.querySelector('.ds2-micro-story--title');
-  const textBox = main.querySelector('.ds2-micro-story--textbox');
+  let imageCol = null;
+  let textCol = null;
 
-  // Compose left column content
-  const leftColumnContent = [];
-  if (title) leftColumnContent.push(title);
-  if (textBox) {
-    // Find the actual content inside textBox
-    const bodyCopy = textBox.querySelector('.ds2-expand--body-copy');
-    if (bodyCopy) {
-      // Get all children (paragraphs, lists, etc.)
-      const copyContent = bodyCopy.querySelector('.ds2-expand--copy-content');
-      if (copyContent) {
-        // Only push meaningful children (skip empty paragraphs)
-        Array.from(copyContent.children).forEach(child => {
-          // Defensive: skip empty paragraphs
-          if (child.tagName === 'P' && child.textContent.trim() === '') return;
-          leftColumnContent.push(child);
-        });
-      }
+  // Identify image and text columns
+  children.forEach((child) => {
+    if (child.classList.contains('rad-banner-image-and-text__image')) {
+      imageCol = child;
+    } else if (child.classList.contains('rad-banner-image-and-text__text')) {
+      textCol = child;
     }
-  }
+  });
 
-  // Right column: Image
-  let image = null;
-  const mediaContainer = main.querySelector('.ds2-micro-story--media-container');
-  if (mediaContainer) {
-    image = mediaContainer.querySelector('img');
-  }
+  // Fallback if classes are missing: assume order (image first, text second)
+  if (!imageCol && children.length > 0) imageCol = children[0];
+  if (!textCol && children.length > 1) textCol = children[1];
 
-  // Compose the columns row
-  const columnsRow = [
-    leftColumnContent,
-    image ? image : ''
-  ];
+  // Prepare the columns row
+  const columnsRow = [imageCol, textCol];
 
-  // Create the table
-  const cells = [
+  // Build the table
+  const table = WebImporter.DOMUtils.createTable([
     headerRow,
-    columnsRow
-  ];
-  const block = WebImporter.DOMUtils.createTable(cells, document);
+    columnsRow,
+  ], document);
 
   // Replace the original element
-  element.replaceWith(block);
+  element.replaceWith(table);
 }

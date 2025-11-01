@@ -1,57 +1,85 @@
 /* global WebImporter */
 export default function parse(element, { document }) {
-  // Cards (cards85) block: 2 columns, multiple rows
-  // Each card: image (first cell), text (second cell)
-  // The block header must be: ['Cards (cards85)']
+  // Compose header row
+  const headerRow = ['Cards (cards85)'];
 
-  const mainSlider = element.querySelector('.ds2-slider--main');
-  const bottomSlider = element.querySelector('.ds2-slider--bottom');
-  if (!mainSlider || !bottomSlider) return;
+  // Find section title and CTA
+  const sectionTitle = element.querySelector('.cmp-title__text');
+  const ctaBtn = element.querySelector('.cmp-button');
 
-  const imageSlides = Array.from(mainSlider.querySelectorAll('.ds2-slider--slide'));
-  const textSlides = Array.from(bottomSlider.querySelectorAll('.ds2-slider--slide'));
-  const cardCount = Math.min(imageSlides.length, textSlides.length);
+  // Find left column card container
+  const leftCol = element.querySelector('.cmp-four-cell__second-row .cmp-four-cell__first-col');
+  // Find right column card container
+  const rightCol = element.querySelector('.cmp-four-cell__second-row .cmp-four-cell__second-col');
 
-  const rows = [];
-  rows.push(['Cards (cards85)']);
-
-  for (let i = 0; i < cardCount; i++) {
-    // Use the actual <img> src from the HTML, not <source> data-srcset
-    let imgEl = '';
-    const imgOuter = imageSlides[i].querySelector('.ds2-slider--img-outer');
-    if (imgOuter) {
-      const picture = imgOuter.querySelector('picture');
-      if (picture) {
-        const img = picture.querySelector('img');
-        if (img) {
-          imgEl = document.createElement('img');
-          imgEl.src = img.getAttribute('src');
+  // Helper to extract left column cards (image + text)
+  function extractImageCards(container) {
+    const cards = [];
+    const teasers = container.querySelectorAll('.cmp-teaser');
+    teasers.forEach(teaser => {
+      const imageLink = teaser.querySelector('.cmp-teaser__image a img');
+      if (imageLink) {
+        const imgCell = imageLink.closest('a') || imageLink;
+        const content = teaser.querySelector('.cmp-teaser__content');
+        const textFragments = [];
+        const pretitle = content && content.querySelector('.cmp-teaser__pretitle-link');
+        if (pretitle) textFragments.push(pretitle);
+        const title = content && content.querySelector('.cmp-teaser__title-link');
+        if (title) {
+          const heading = document.createElement('h3');
+          heading.appendChild(title);
+          textFragments.push(heading);
         }
+        const desc = content && content.querySelector('.cmp-teaser__description');
+        if (desc) textFragments.push(desc);
+        cards.push([imgCell, textFragments]);
       }
-      // Include magnifier icon overlay as in screenshot
-      const icon = imgOuter.querySelector('.ds2-icon--magnifier-white');
-      if (icon) {
-        const wrapper = document.createElement('div');
-        if (imgEl) wrapper.appendChild(imgEl);
-        wrapper.appendChild(icon.cloneNode(true));
-        imgEl = wrapper;
-      }
-    }
-
-    // Text cell: use all text content inside .ds2-slider-slide-details
-    let textCell = '';
-    const details = textSlides[i].querySelector('.ds2-slider-slide-details');
-    if (details) {
-      textCell = document.createElement('div');
-      Array.from(details.childNodes).forEach((node) => {
-        textCell.appendChild(node.cloneNode(true));
-      });
-    }
-
-    rows.push([imgEl, textCell]);
+    });
+    return cards;
   }
 
-  // Only card rows, no navigation/pagination rows
-  const blockTable = WebImporter.DOMUtils.createTable(rows, document);
-  element.replaceWith(blockTable);
+  // Helper to extract right column cards (text only)
+  function extractTextCards(container) {
+    const cards = [];
+    const teasers = container.querySelectorAll('.cmp-teaser');
+    teasers.forEach(teaser => {
+      if (!teaser.querySelector('.cmp-teaser__image')) {
+        const content = teaser.querySelector('.cmp-teaser__content');
+        const textFragments = [];
+        const pretitle = content && content.querySelector('.cmp-teaser__pretitle-link');
+        if (pretitle) textFragments.push(pretitle);
+        const title = content && content.querySelector('.cmp-teaser__title-link');
+        if (title) {
+          const heading = document.createElement('h3');
+          heading.appendChild(title);
+          textFragments.push(heading);
+        }
+        cards.push(['', textFragments]);
+      }
+    });
+    return cards;
+  }
+
+  // Compose card rows
+  const leftCards = leftCol ? extractImageCards(leftCol) : [];
+  const rightCards = rightCol ? extractTextCards(rightCol) : [];
+
+  // Compose final table cells
+  const cells = [headerRow];
+
+  // Add section heading and CTA as a row if either exists
+  if (sectionTitle || ctaBtn) {
+    const wrapper = document.createElement('div');
+    if (sectionTitle) wrapper.appendChild(sectionTitle.cloneNode(true));
+    if (ctaBtn) wrapper.appendChild(ctaBtn.cloneNode(true));
+    cells.push([wrapper, '']);
+  }
+
+  leftCards.forEach(card => cells.push(card));
+  rightCards.forEach(card => cells.push(card));
+
+  // Create block table
+  const block = WebImporter.DOMUtils.createTable(cells, document);
+  // Replace element
+  element.replaceWith(block);
 }

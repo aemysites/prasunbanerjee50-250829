@@ -1,32 +1,34 @@
 /* global WebImporter */
 export default function parse(element, { document }) {
-  // Columns (columns35) block: extract all visible text content from the source html
-  // Header row
+  // Always use the block name as the header row
   const headerRow = ['Columns (columns35)'];
 
-  // Find all visible text nodes (e.g., button text)
-  const textNodes = [];
-  element.querySelectorAll('*').forEach((el) => {
-    if (el.childNodes.length) {
-      el.childNodes.forEach((node) => {
-        if (node.nodeType === Node.TEXT_NODE && node.textContent.trim()) {
-          textNodes.push(node.textContent.trim());
-        }
-      });
+  // Defensive: find the main content container
+  const content = element.querySelector('.content');
+  if (!content) return;
+
+  // Each column is a direct child (div) of .content, separated by .divider
+  // We'll collect all direct children that are not dividers
+  const columns = [];
+  content.childNodes.forEach((node) => {
+    if (node.nodeType === 1 && node.tagName === 'DIV' && !node.classList.contains('divider')) {
+      // Each column div contains a single <a> link with icon and text
+      const link = node.querySelector('a');
+      if (link) {
+        // For robustness, use the entire link element as the column content
+        columns.push(link);
+      }
     }
   });
 
-  // If any text content found, put each in its own column
-  let rows;
-  if (textNodes.length) {
-    rows = [headerRow, textNodes];
-  } else {
-    rows = [headerRow];
-  }
+  if (columns.length === 0) return;
+
+  // Build the table rows
+  const rows = [headerRow, columns];
 
   // Create the block table
-  const block = WebImporter.DOMUtils.createTable(rows, document);
+  const table = WebImporter.DOMUtils.createTable(rows, document);
 
-  // Replace the original element with the block table
-  element.replaceWith(block);
+  // Replace the original element with the new table
+  element.replaceWith(table);
 }
