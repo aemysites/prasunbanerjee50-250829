@@ -17,89 +17,89 @@
   --text-color: #131313;
   --link-color: #3b63fb;
   --link-hover-color: #1d3ecf;
-  --body-font-family: "bmwTypeNextWeb", "bmwTypeNextWeb Fallback", "Arial", "Helvetica", "Roboto", "sans-serif";
-  --heading-font-family: "bmwTypeNextWeb", "bmwTypeNextWeb Fallback", "Arial", "Helvetica", "Roboto", "sans-serif";
-  --body-font-size-m: 23px;
-  --body-font-size-s: 20px;
-  --body-font-size-xs: 18px;
-  --heading-font-size-xxl: 35px;
-  --heading-font-size-xl: 210px;
-  --heading-font-size-l: 23px;
-  --heading-font-size-m: 23px;
-  --heading-font-size-s: 20px;
-  --heading-font-size-xs: 18px;
-  --nav-height: 85px;
+  --body-font-family: "Graphik", "Graphik Fallback", "Arial", "Helvetica", "sans-serif";
+  --heading-font-family: "Graphik", "Graphik Fallback", "Arial", "Helvetica", "sans-serif";
+  --body-font-size-m: 24px;
+  --body-font-size-s: 16px;
+  --body-font-size-xs: 16px;
+  --heading-font-size-xxl: 16px;
+  --heading-font-size-xl: 14px;
+  --heading-font-size-l: 28px;
+  --heading-font-size-m: 24px;
+  --heading-font-size-s: 16px;
+  --heading-font-size-xs: 16px;
+  --nav-height: 781px;
   --header-height: var(--nav-height);
 }
 
 /* fallback fonts */
 @font-face {
-  font-family:"bmwTypeNextWeb Fallback";
-  font-style:normal;
-  font-weight:300;
-  src:local("Arial");
-  ascent-override:104.93%;
-  descent-override:27.33%;
-  line-gap-override:0.00%;
-  size-adjust:102.45%;
-}
-
-@font-face {
-  font-family:"bmwTypeNextWeb Fallback";
-  font-style:normal;
-  font-weight:500;
-  src:local("Arial");
-  ascent-override:100.13%;
-  descent-override:26.08%;
-  line-gap-override:0.00%;
-  size-adjust:107.36%;
-}
-
-@font-face {
-  font-family:"bmwTypeNextWeb Fallback";
-  font-style:normal;
-  font-weight:700;
-  src:local("Arial Bold");
-  ascent-override:106.31%;
-  descent-override:27.69%;
-  line-gap-override:0.00%;
-  size-adjust:101.12%;
-}
-
-@font-face {
-  font-family:"bmw_next_icons Fallback";
+  font-family:"Graphik Fallback";
   font-style:normal;
   font-weight:400;
   src:local("Arial");
-  ascent-override:182.52%;
-  descent-override:0.00%;
+  ascent-override:75.32%;
+  descent-override:16.76%;
   line-gap-override:0.00%;
-  size-adjust:54.79%;
+  size-adjust:108.61%;
 }
 
 @font-face {
-  font-family:"bmw_next_icons Fallback";
+  font-family:"Graphik Fallback";
+  font-style:normal;
+  font-weight:500;
+  src:local("Arial");
+  ascent-override:75.37%;
+  descent-override:16.43%;
+  line-gap-override:0.00%;
+  size-adjust:108.93%;
+}
+
+@font-face {
+  font-family:"icont Fallback";
+  font-style:normal;
+  font-weight:400;
+  src:local("Arial");
+  ascent-override:85.00%;
+  descent-override:15.00%;
+  line-gap-override:0.00%;
+  size-adjust:100.00%;
+}
+
+@font-face {
+  font-family:"Graphik Fallback";
+  font-style:normal;
+  font-weight:600;
+  src:local("Arial Bold");
+  ascent-override:79.85%;
+  descent-override:17.29%;
+  line-gap-override:0.00%;
+  size-adjust:102.94%;
+}
+
+@font-face {
+  font-family:"GT Sectra Fine Fallback";
   font-style:normal;
   font-weight:300;
   src:local("Arial");
-  ascent-override:182.52%;
-  descent-override:0.00%;
+  ascent-override:101.87%;
+  descent-override:27.03%;
   line-gap-override:0.00%;
-  size-adjust:54.79%;
+  size-adjust:96.20%;
 }
 
 @media (width>=900px) {
   :root {
-    --body-font-size-m: 23px;
-    --body-font-size-s: 20px;
-    --body-font-size-xs: 18px;
-    --heading-font-size-xxl: 35px;
-    --heading-font-size-xl: 210px;
-    --heading-font-size-l: 23px;
-    --heading-font-size-m: 23px;
-    --heading-font-size-s: 20px;
-    --heading-font-size-xs: 18px;
-    --nav-height: 85px;
+    --body-font-size-m: 24px;
+    --body-font-size-s: 16px;
+    --body-font-size-xs: 16px;
+    --heading-font-size-xxl: 16px;
+    --heading-font-size-xl: 14px;
+    --heading-font-size-l: 28px;
+    --heading-font-size-m: 24px;
+    --heading-font-size-s: 16px;
+    --heading-font-size-xs: 16px;
+    --nav-height: 781px;
   }
 }
 
@@ -288,13 +288,37 @@ main .section.light, main .section.highlight {
 }
 
 .section.section-1 {
-  background: rgb(38 38 38) none repeat scroll 0% 0% / auto padding-box border-box;
+  background: rgb(70 0 115) none repeat scroll 0% 0% / auto padding-box border-box;
 }
 
 .section.section-2 {
-  background: rgb(255 255 255) none repeat scroll 0% 0% / auto padding-box border-box;
+  background: rgb(241 241 239) none repeat scroll 0% 0% / auto padding-box border-box;
 }
 
 .section.section-3 {
-  background: rgb(0 0 0 / 0%) none repeat scroll 0% 0% / auto padding-box border-box;
+  background: rgb(32 32 32) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-4 {
+  background: rgb(255 255 255) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-5 {
+  background: rgb(57 0 94) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-6 {
+  background: rgb(0 0 0) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-7 {
+  background: rgb(117 0 192) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-8 {
+  background: rgb(242 242 242) none repeat scroll 0% 0% / auto padding-box border-box;
+}
+
+.section.section-9 {
+  background: rgb(16 16 16) none no-repeat scroll 100% 50% / auto padding-box border-box;
 }
