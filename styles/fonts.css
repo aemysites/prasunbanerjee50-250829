@@ -1,34 +1,7 @@
 
 @font-face {
-  font-family: bmwTypeNextWeb;      
-  src: url('../fonts/bmwtypenextweb-300-normal.woff2') format('woff2');
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: bmwTypeNextWeb;      
-  src: url('../fonts/bmwtypenextweb-500-normal.woff2') format('woff2');
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: bmwTypeNextWeb;      
-  src: url('../fonts/bmwtypenextweb-700-normal.woff2') format('woff2');
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-  unicode-range: U+0-10FFFF;
-}
-
-@font-face {
-  font-family: "bmw_next_icons";      
-  src: url('../fonts/bmw-next-icons-400-normal.woff2') format('woff2');
+  font-family: Graphik;      
+  src: url('../fonts/graphik-400-normal.woff2') format('woff2');
   font-weight: 400;
   font-style: normal;
   font-display: swap;
@@ -36,19 +9,37 @@
 }
 
 @font-face {
-  font-family: "bmw_next_icons";      
-  src: url('../fonts/bmw-next-icons-300-normal.woff2') format('woff2');
-  font-weight: 300;
+  font-family: Graphik;      
+  src: url('../fonts/graphik-500-normal.woff2') format('woff2');
+  font-weight: 500;
   font-style: normal;
   font-display: swap;
   unicode-range: U+0-10FFFF;
 }
 
 @font-face {
-  font-family: bmwTypeNextWeb;      
-  src: url('../fonts/bmwtypenextweb-300-normal.woff2') format('woff2');
+  font-family: icont;      
+  src: url('../fonts/icont-400-normal.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: Graphik;      
+  src: url('../fonts/graphik-600-normal.woff2') format('woff2');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+0-10FFFF;
+}
+
+@font-face {
+  font-family: "GT Sectra Fine";      
+  src: url('../fonts/gt-sectra-fine-300-normal.woff2') format('woff2');
   font-weight: 300;
   font-style: normal;
   font-display: swap;
-  unicode-range: U+100-17F, U+180-24F;
+  unicode-range: U+0-10FFFF;
 }
