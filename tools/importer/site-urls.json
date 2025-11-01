@@ -1,0 +1,773 @@
+{
+  "originUrl": "https://www.accenture.com",
+  "aborted": false,
+  "lastCrawled": "https://www.accenture.com/de-de/careers",
+  "urls": [
+    {
+      "url": "https://www.accenture.com/ae-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/ae-en/careers",
+      "id": "7d9bc967a09a376dc99c74e2bcf65f2defcdb31c"
+    },
+    {
+      "url": "https://www.accenture.com/ar-es/careers",
+      "source": "CRAWL",
+      "targetPath": "/ar-es/careers",
+      "id": "a7f88772c6d3b6f01dde620704552d7369968134"
+    },
+    {
+      "url": "https://www.accenture.com/at-de/careers",
+      "source": "CRAWL",
+      "targetPath": "/at-de/careers",
+      "id": "2b407896ef2d199c643070a1168846c1892e9fa3"
+    },
+    {
+      "url": "https://www.accenture.com/au-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/au-en/careers",
+      "id": "8d9151dfc342d88e04b2d08677903235602049b7"
+    },
+    {
+      "url": "https://www.accenture.com/be-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/be-en/careers",
+      "id": "62380ce5c2900b73379d4d419a7edf3f60db4b1d"
+    },
+    {
+      "url": "https://www.accenture.com/bg-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/bg-en/careers",
+      "id": "d0dda1b69c9548aeb6314ad8f2bc6fff7fbf73ae"
+    },
+    {
+      "url": "https://www.accenture.com/br-pt/careers",
+      "source": "CRAWL",
+      "targetPath": "/br-pt/careers",
+      "id": "e1cc008c7994cd5672ac730fb470525209615a7b"
+    },
+    {
+      "url": "https://www.accenture.com/ca-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/ca-en/careers",
+      "id": "9ae6f7051dcaf52ba394e4e1fe6c8475dd3dd8a7"
+    },
+    {
+      "url": "https://www.accenture.com/ca-fr/careers",
+      "source": "CRAWL",
+      "targetPath": "/ca-fr/careers",
+      "id": "9677cabcb1bb21deaf3a4651adcdecffa691f2ff"
+    },
+    {
+      "url": "https://www.accenture.com/ch-de/careers",
+      "source": "CRAWL",
+      "targetPath": "/ch-de/careers",
+      "id": "5904e50a595ada09d32b0da3d4f5847884c75446"
+    },
+    {
+      "url": "https://www.accenture.com/ch-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/ch-en/careers",
+      "id": "a6deb659e833ee02ed833318eef62adf06bd338d"
+    },
+    {
+      "url": "https://www.accenture.com/cl-es/careers",
+      "source": "CRAWL",
+      "targetPath": "/cl-es/careers",
+      "id": "2027e01248a7d611513bb16c415c3c4bc941a185"
+    },
+    {
+      "url": "https://www.accenture.com/cn-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/cn-en/careers",
+      "id": "d24508ee558ded1555e59dfad007ae95ed788650"
+    },
+    {
+      "url": "https://www.accenture.com/co-es/careers",
+      "source": "CRAWL",
+      "targetPath": "/co-es/careers",
+      "id": "21480ac410c79a1c8fabb05ae0c1a4acfb2decdb"
+    },
+    {
+      "url": "https://www.accenture.com/cr-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/cr-en/careers",
+      "id": "7eac3c7117fe023f39759b45c52b34748f610304"
+    },
+    {
+      "url": "https://www.accenture.com/cz-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/cz-en/careers",
+      "id": "bcee7ea45a23f5f49053ad2d98118cbc0ddf4ef3"
+    },
+    {
+      "url": "https://www.accenture.com/de-de",
+      "source": "CRAWL",
+      "targetPath": "/de-de",
+      "id": "e40666c25733946282663488901bbe1872e2c4e4"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/about/accenture-song-index",
+      "source": "CRAWL",
+      "targetPath": "/de-de/about/accenture-song-index",
+      "id": "34cf3ad250e7ee45bdacf053b91021393f0eef8d"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/about/awards-recognition",
+      "source": "CRAWL",
+      "targetPath": "/de-de/about/awards-recognition",
+      "id": "61cea605854b0d12eabf7036e3f20d34f370c2e2"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/about/company-index",
+      "source": "CRAWL",
+      "targetPath": "/de-de/about/company-index",
+      "id": "c9eaaf544f38c9b68bb89fa481979dd04f4bf460"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/about/company/industry-analyst",
+      "source": "CRAWL",
+      "targetPath": "/de-de/about/company/industry-analyst",
+      "id": "e831a1584a6285a9ce17f4a530a64c00679061ef"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/about/consulting-index",
+      "source": "CRAWL",
+      "targetPath": "/de-de/about/consulting-index",
+      "id": "b7727f4e489a970202d9582025b2e8ab2e8c284c"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/about/corporate-sustainability",
+      "source": "CRAWL",
+      "targetPath": "/de-de/about/corporate-sustainability",
+      "id": "de0c639c06a2cc1c7723eb3bdc366a19772f3c73"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/about/leadership",
+      "source": "CRAWL",
+      "targetPath": "/de-de/about/leadership",
+      "id": "7c3cb490e1686bbc61b9fffb1a141fa4181d0373"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/about/location",
+      "source": "CRAWL",
+      "targetPath": "/de-de/about/location",
+      "id": "a8111d16358f36baf5848ed5aba999cff60b27ad"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/about/technology-index",
+      "source": "CRAWL",
+      "targetPath": "/de-de/about/technology-index",
+      "id": "6009214096ef93e9e7f255ac4dd9348c24ddedb7"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/careers",
+      "source": "CRAWL",
+      "targetPath": "/de-de/careers",
+      "id": "4181767a0ca29596582d9c8b137a89cf96dd699c"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/careers/jobsearch",
+      "source": "CRAWL",
+      "targetPath": "/de-de/careers/jobsearch",
+      "id": "c5ebdead4b0b91b3d9547d3c3638b908e3ccd499"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/careers/life-at-accenture/work-environment",
+      "source": "CRAWL",
+      "targetPath": "/de-de/careers/life-at-accenture/work-environment",
+      "id": "a09353f3e1c491054e10f985aaf9b50774548598"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/careers/life-at-accenture/working-here",
+      "source": "CRAWL",
+      "targetPath": "/de-de/careers/life-at-accenture/working-here",
+      "id": "dbe5aea518c85407857d28838f685dc0e2fa31e8"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/careers/local/benefits",
+      "source": "CRAWL",
+      "targetPath": "/de-de/careers/local/benefits",
+      "id": "4a9345adb9ae8761592029d680c778b4919d32a4"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/industries/aerospace-defense",
+      "source": "CRAWL",
+      "targetPath": "/de-de/industries/aerospace-defense",
+      "id": "961917ae9b97f8a4ba93c79fd4ac667c1bb24067"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/industries/automotive",
+      "source": "CRAWL",
+      "targetPath": "/de-de/industries/automotive",
+      "id": "c2507c850adf0e76e2484a9f1a11351db2c6b2e0"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/industries/banking",
+      "source": "CRAWL",
+      "targetPath": "/de-de/industries/banking",
+      "id": "b6d80d69f0beec2232e8b9ca75f598c96f62783b"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/industries/capital-markets",
+      "source": "CRAWL",
+      "targetPath": "/de-de/industries/capital-markets",
+      "id": "a5e8d62fa750116ec584d6c88e96833fc7ee6172"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/industries/chemicals",
+      "source": "CRAWL",
+      "targetPath": "/de-de/industries/chemicals",
+      "id": "f7d2c3516084abf90f8bc489da87e5d3ff2e7dc9"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/industries/communications-media",
+      "source": "CRAWL",
+      "targetPath": "/de-de/industries/communications-media",
+      "id": "c3d614189c29d99d465accb05d6eb170f2d45b63"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/industries/energy",
+      "source": "CRAWL",
+      "targetPath": "/de-de/industries/energy",
+      "id": "ac60bbda71c2fa38a5c568efc41cc47cecd15c3b"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/industries/health",
+      "source": "CRAWL",
+      "targetPath": "/de-de/industries/health",
+      "id": "25cf959514845cdf07716ced30f05cc63801374a"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/industries/high-tech",
+      "source": "CRAWL",
+      "targetPath": "/de-de/industries/high-tech",
+      "id": "9f31b734e9ae16454381736f113a274e21eeeaea"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/industries/industrial-equipment",
+      "source": "CRAWL",
+      "targetPath": "/de-de/industries/industrial-equipment",
+      "id": "f8ac28933fc4f62a2c7a4e50270c777acf00ca87"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/industries/insurance",
+      "source": "CRAWL",
+      "targetPath": "/de-de/industries/insurance",
+      "id": "6a09fc7a2cf227cf060bd5e311f576dc2e3748f8"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/industries/life-sciences",
+      "source": "CRAWL",
+      "targetPath": "/de-de/industries/life-sciences",
+      "id": "2fd7a5046bb5367061eed5ccacb9b18e697fd55a"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/industries/natural-resources",
+      "source": "CRAWL",
+      "targetPath": "/de-de/industries/natural-resources",
+      "id": "43ee12536163fee51c821240ff40faaab01dec24"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/industries/private-equity",
+      "source": "CRAWL",
+      "targetPath": "/de-de/industries/private-equity",
+      "id": "87445c54ebe2f1c4772f30c974c1cc9b6a1e8a66"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/industries/public-service",
+      "source": "CRAWL",
+      "targetPath": "/de-de/industries/public-service",
+      "id": "f273c917928e84f2e8c4fc37497f6611803d006a"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/industries/retail",
+      "source": "CRAWL",
+      "targetPath": "/de-de/industries/retail",
+      "id": "72b1b45790cd88c72efafb0b9adc24c6b7ee643a"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/industries/software-platforms",
+      "source": "CRAWL",
+      "targetPath": "/de-de/industries/software-platforms",
+      "id": "108779a44119a396ec759bd5f339edf54e67a909"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/industries/travel",
+      "source": "CRAWL",
+      "targetPath": "/de-de/industries/travel",
+      "id": "b0871820aff0f3bb3e8935cbcf1f9f0f2530c8cb"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/industries/utilities",
+      "source": "CRAWL",
+      "targetPath": "/de-de/industries/utilities",
+      "id": "1e5357f035be1038eb6b61a81938aa9ce92059b7"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/insights-index",
+      "source": "CRAWL",
+      "targetPath": "/de-de/insights-index",
+      "id": "45691578a491086e74a33a77d2078ae8c2aeb9d2"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/services",
+      "source": "CRAWL",
+      "targetPath": "/de-de/services",
+      "id": "4ea2f20789d4624841c54d9ea9c26f9b5461b542"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/services/cloud",
+      "source": "CRAWL",
+      "targetPath": "/de-de/services/cloud",
+      "id": "38955cd7fe6a52a416c37cee042e46716dec6c3f"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/services/customer-service",
+      "source": "CRAWL",
+      "targetPath": "/de-de/services/customer-service",
+      "id": "b0ccb3193e0bdcccb7222aea770141dfd06bd1e5"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/services/cybersecurity",
+      "source": "CRAWL",
+      "targetPath": "/de-de/services/cybersecurity",
+      "id": "49f49e7d443c44b9310691dae5349e4bc200dcd7"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/services/data-ai",
+      "source": "CRAWL",
+      "targetPath": "/de-de/services/data-ai",
+      "id": "395dd13fb8cf47a51044ca1ea60d131c0a96aeca"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/services/digital-engineering-manufacturing",
+      "source": "CRAWL",
+      "targetPath": "/de-de/services/digital-engineering-manufacturing",
+      "id": "2e8243f43e3fd284d186d79b44e1afd22ba7d2a6"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/services/ecosystem-partners",
+      "source": "CRAWL",
+      "targetPath": "/de-de/services/ecosystem-partners",
+      "id": "1203c81d701206acfc0762bdb90c90a61735d509"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/services/emerging-technology",
+      "source": "CRAWL",
+      "targetPath": "/de-de/services/emerging-technology",
+      "id": "87073298f08ff089281167f328343add43ad8d74"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/services/finance-risk",
+      "source": "CRAWL",
+      "targetPath": "/de-de/services/finance-risk",
+      "id": "4779cb276b1161ddd757f2bac10bd6a046e84ac7"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/services/infrastructure-capital-projects",
+      "source": "CRAWL",
+      "targetPath": "/de-de/services/infrastructure-capital-projects",
+      "id": "edf23fce6d549da6cead8ab705d334c43a88c8d2"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/services/learning",
+      "source": "CRAWL",
+      "targetPath": "/de-de/services/learning",
+      "id": "79f81a7a7babb91b90df8a7ffffd59092dedd79a"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/services/managed-services",
+      "source": "CRAWL",
+      "targetPath": "/de-de/services/managed-services",
+      "id": "8f76a6bda103b4e0c8c716e33a63e95044e7b6d0"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/services/marketing-experience",
+      "source": "CRAWL",
+      "targetPath": "/de-de/services/marketing-experience",
+      "id": "3459a411ee82a3db22196050e9962bb5b02dbb67"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/services/metaverse",
+      "source": "CRAWL",
+      "targetPath": "/de-de/services/metaverse",
+      "id": "6595356e49c352369acd034e90e3471b2e6f0b93"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/services/sales-commerce",
+      "source": "CRAWL",
+      "targetPath": "/de-de/services/sales-commerce",
+      "id": "04da518d3eb36995a7703a19b13e7e7a6813f4e1"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/services/strategy",
+      "source": "CRAWL",
+      "targetPath": "/de-de/services/strategy",
+      "id": "f61b3acd2ff77ff330b6222b774175fbbff98a22"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/services/supply-chain",
+      "source": "CRAWL",
+      "targetPath": "/de-de/services/supply-chain",
+      "id": "1351c5aa5b7d99e35976e77eefd404c3a45c1de9"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/services/sustainability",
+      "source": "CRAWL",
+      "targetPath": "/de-de/services/sustainability",
+      "id": "708b2275217de4c5e5b4e0096a0ee0f96110048e"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/services/talent-organization",
+      "source": "CRAWL",
+      "targetPath": "/de-de/services/talent-organization",
+      "id": "4f4bce529c0d8b3b15f468ca67dc610c41018fa5"
+    },
+    {
+      "url": "https://www.accenture.com/de-de/services/technology-transformation",
+      "source": "CRAWL",
+      "targetPath": "/de-de/services/technology-transformation",
+      "id": "6fcbb20c78ef3f68ffc58cc0551f1f3785b50584"
+    },
+    {
+      "url": "https://www.accenture.com/dk-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/dk-en/careers",
+      "id": "8821382aedf1b4a101ca01c47e207ba446852c09"
+    },
+    {
+      "url": "https://www.accenture.com/es-es/careers",
+      "source": "CRAWL",
+      "targetPath": "/es-es/careers",
+      "id": "a0027c1ec2dabc6865f2e222ff311c7bd952fed8"
+    },
+    {
+      "url": "https://www.accenture.com/fi-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/fi-en/careers",
+      "id": "1ba6d12348fdeafcb6d8613952ee89cb68b00751"
+    },
+    {
+      "url": "https://www.accenture.com/fr-fr/careers",
+      "source": "CRAWL",
+      "targetPath": "/fr-fr/careers",
+      "id": "c9c1bc4153e8615e79a08bd1d3bdfd6ca7e6daf0"
+    },
+    {
+      "url": "https://www.accenture.com/gb-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/gb-en/careers",
+      "id": "e5e6e8c6763d25f1fc6acfc1d056795b0f5e7f6d"
+    },
+    {
+      "url": "https://www.accenture.com/gr-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/gr-en/careers",
+      "id": "cad8add74996b592cc0962e71e54ff2af9597cd9"
+    },
+    {
+      "url": "https://www.accenture.com/hk-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/hk-en/careers",
+      "id": "afb41d0275fd4035064cca84d0ef9a7de2d78d7f"
+    },
+    {
+      "url": "https://www.accenture.com/hu-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/hu-en/careers",
+      "id": "741768c4239cc8efe8896f1dc6f4a1347f156dda"
+    },
+    {
+      "url": "https://www.accenture.com/id-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/id-en/careers",
+      "id": "7c8cae4c4e782bdaf631cfc4d2ab8e2d35e3af27"
+    },
+    {
+      "url": "https://www.accenture.com/ie-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/ie-en/careers",
+      "id": "e7dbf9cb8ee8bc2656abffa6b8134ff2832c6682"
+    },
+    {
+      "url": "https://www.accenture.com/il-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/il-en/careers",
+      "id": "ce533de9b6e3af1aac575dbe810abcef8bc7f5fa"
+    },
+    {
+      "url": "https://www.accenture.com/in-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/in-en/careers",
+      "id": "6f40aa36d6885a5f371f36737ca1525f7ec01827"
+    },
+    {
+      "url": "https://www.accenture.com/it-it/careers",
+      "source": "CRAWL",
+      "targetPath": "/it-it/careers",
+      "id": "eb2dddbcd1d0c5ff4ebecf3acc6b5c376470a853"
+    },
+    {
+      "url": "https://www.accenture.com/jp-ja/careers",
+      "source": "CRAWL",
+      "targetPath": "/jp-ja/careers",
+      "id": "6e394b55e5e5c6f7d3e8ff80c465f98a48808405"
+    },
+    {
+      "url": "https://www.accenture.com/lu-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/lu-en/careers",
+      "id": "7dbbf3c74f05dc2c6d21aa4f772fac11a90baf0f"
+    },
+    {
+      "url": "https://www.accenture.com/lv-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/lv-en/careers",
+      "id": "a06effdde4cef5a54974818e564f36dbf0c5af26"
+    },
+    {
+      "url": "https://www.accenture.com/mu-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/mu-en/careers",
+      "id": "04d5139bf9c366d59867ba88e1d164147df3e67c"
+    },
+    {
+      "url": "https://www.accenture.com/mx-es/careers",
+      "source": "CRAWL",
+      "targetPath": "/mx-es/careers",
+      "id": "c471ee7e200cb8d917fc8d1f958b7a232ea586b4"
+    },
+    {
+      "url": "https://www.accenture.com/my-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/my-en/careers",
+      "id": "63d6410989887cd37189847ead134a1ee01630cc"
+    },
+    {
+      "url": "https://www.accenture.com/nl-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/nl-en/careers",
+      "id": "f0ac928b409e30ae629590fc4b8d35cd18c771e8"
+    },
+    {
+      "url": "https://www.accenture.com/no-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/no-en/careers",
+      "id": "5d4a17d048fa28e2a09a42272ef8d3cc8a966539"
+    },
+    {
+      "url": "https://www.accenture.com/nz-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/nz-en/careers",
+      "id": "5703c819048d5e0e77342f29ded0b4208078e202"
+    },
+    {
+      "url": "https://www.accenture.com/ph-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/ph-en/careers",
+      "id": "00a741a382fd9a0f4eeba81d20f0a236a9830bdd"
+    },
+    {
+      "url": "https://www.accenture.com/pl-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/pl-en/careers",
+      "id": "352175ece3f7fed0833209e134b68aee11690a35"
+    },
+    {
+      "url": "https://www.accenture.com/pl-pl/careers",
+      "source": "CRAWL",
+      "targetPath": "/pl-pl/careers",
+      "id": "0dca5cbdc139581d1eac8438ae40caaebcf9dc96"
+    },
+    {
+      "url": "https://www.accenture.com/pt-pt/careers",
+      "source": "CRAWL",
+      "targetPath": "/pt-pt/careers",
+      "id": "294f3d5ff3cf030a004d4b6e35725ff677bdc646"
+    },
+    {
+      "url": "https://www.accenture.com/ro-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/ro-en/careers",
+      "id": "a566bf7205f3871cfec1b67476f6213509e40541"
+    },
+    {
+      "url": "https://www.accenture.com/sa-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/sa-en/careers",
+      "id": "3789f8816c08c123d4cd8e9801a490254d7e3a58"
+    },
+    {
+      "url": "https://www.accenture.com/se-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/se-en/careers",
+      "id": "604d3bcc616434b127ac8db1752891f3cc48df6d"
+    },
+    {
+      "url": "https://www.accenture.com/sg-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/sg-en/careers",
+      "id": "7fd4d3ec234dd768d6b88e635d25b8bed4ff653a"
+    },
+    {
+      "url": "https://www.accenture.com/sk-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/sk-en/careers",
+      "id": "5226d0a71680522fe87456a59c5a8b7019ac2fd0"
+    },
+    {
+      "url": "https://www.accenture.com/sk-sk/careers",
+      "source": "CRAWL",
+      "targetPath": "/sk-sk/careers",
+      "id": "55afbad61f2898738b8d6780353a8bbed41d7fc9"
+    },
+    {
+      "url": "https://www.accenture.com/th-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/th-en/careers",
+      "id": "d00fafbd5552b7d621d00e03e6ea313025312369"
+    },
+    {
+      "url": "https://www.accenture.com/us-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/us-en/careers",
+      "id": "9c435c718ec3db7b6f6782a439bdeca5b798502c"
+    },
+    {
+      "url": "https://www.accenture.com/za-en/careers",
+      "source": "CRAWL",
+      "targetPath": "/za-en/careers",
+      "id": "4f1887daa437cd4baa1bc54350271d2a4ddc8a2c"
+    }
+  ],
+  "crawlOptions": {
+    "timeout": 10000,
+    "inclusionPatterns": [],
+    "exclusionPatterns": [],
+    "limit": 100,
+    "sameDomain": true,
+    "keepHash": false,
+    "strategy": "crawl",
+    "logger": {},
+    "strategiesAttempted": [
+      "SITEMAPS",
+      "CRAWL"
+    ]
+  },
+  "extractionErrors": [
+    {
+      "url": "https://www.accenture.com//accenture.demdex.net/",
+      "status": "301 Moved Permanently Redirect: https://www.accenture.com/accenture.demdex.net/"
+    },
+    {
+      "url": "https://www.accenture.com//api.company-target.com/",
+      "status": "301 Moved Permanently Redirect: https://www.accenture.com/api.company-target.com/"
+    },
+    {
+      "url": "https://www.accenture.com//assets.adobedtm.com/",
+      "status": "301 Moved Permanently Redirect: https://www.accenture.com/assets.adobedtm.com/"
+    },
+    {
+      "url": "https://www.accenture.com//cdn.cookielaw.org/",
+      "status": "301 Moved Permanently Redirect: https://www.accenture.com/cdn.cookielaw.org/"
+    },
+    {
+      "url": "https://www.accenture.com//cdnjs.cloudflare.com/",
+      "status": "301 Moved Permanently Redirect: https://www.accenture.com/cdnjs.cloudflare.com/"
+    },
+    {
+      "url": "https://www.accenture.com//cdnssl.clicktale.net/",
+      "status": "301 Moved Permanently Redirect: https://www.accenture.com/cdnssl.clicktale.net/"
+    },
+    {
+      "url": "https://www.accenture.com//cm.everesttech.net/",
+      "status": "301 Moved Permanently Redirect: https://www.accenture.com/cm.everesttech.net/"
+    },
+    {
+      "url": "https://www.accenture.com//dpm.demdex.net/",
+      "status": "301 Moved Permanently Redirect: https://www.accenture.com/dpm.demdex.net/"
+    },
+    {
+      "url": "https://www.accenture.com//idsync.rlcdn.com/",
+      "status": "301 Moved Permanently Redirect: https://www.accenture.com/idsync.rlcdn.com/"
+    },
+    {
+      "url": "https://www.accenture.com//ml314.com/",
+      "status": "301 Moved Permanently Redirect: https://www.accenture.com/ml314.com/"
+    },
+    {
+      "url": "https://www.accenture.com//play.vidyard.com/",
+      "status": "301 Moved Permanently Redirect: https://www.accenture.com/play.vidyard.com/"
+    },
+    {
+      "url": "https://www.accenture.com//somni.accenture.com/",
+      "status": "301 Moved Permanently Redirect: https://www.accenture.com/somni.accenture.com/"
+    },
+    {
+      "url": "https://www.accenture.com//target.accenture.com/",
+      "status": "301 Moved Permanently Redirect: https://www.accenture.com/target.accenture.com/"
+    },
+    {
+      "url": "https://www.accenture.com/cdnssl.clicktale.net/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.accenture.com/cdn.cookielaw.org/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.accenture.com/assets.adobedtm.com/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.accenture.com/api.company-target.com/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.accenture.com/dpm.demdex.net/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.accenture.com/play.vidyard.com/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.accenture.com/somni.accenture.com/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.accenture.com/accenture.demdex.net/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.accenture.com/ml314.com/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.accenture.com/cm.everesttech.net/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.accenture.com/target.accenture.com/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.accenture.com/cdnjs.cloudflare.com/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.accenture.com/idsync.rlcdn.com/",
+      "status": "404 Not Found"
+    },
+    {
+      "url": "https://www.accenture.com/etc.clientlibs/cio-sites/clientlibs/clientlib-rad/resources/fonts/graphik-medium-web.woff2",
+      "status": "content type is not text/html. Content type: font/woff2"
+    },
+    {
+      "url": "https://www.accenture.com/etc.clientlibs/cio-sites/clientlibs/clientlib-rad/resources/fonts/graphik-regular-web.woff2",
+      "status": "content type is not text/html. Content type: font/woff2"
+    }
+  ],
+  "errorCountMessage": "{\"E_301\":13,\"E_404\":13,\"others\":2}",
+  "error": null
+}
