@@ -1,41 +1,37 @@
 /* global WebImporter */
 export default function parse(element, { document }) {
-  // Cards (cards16) block: 2 columns, first row is header, each card is a row
+  // Cards (cards16) block header
   const headerRow = ['Cards (cards16)'];
+
+  // Find all card elements
+  const cards = element.querySelectorAll('.rad-editorial-grid__card');
   const rows = [headerRow];
 
-  // Find the parent container for the cards
-  const actionBar = element.querySelector('.ds2-action-bar-content .ds2-action-bar-links');
-  if (!actionBar) return;
+  cards.forEach(card => {
+    // --- Image Extraction ---
+    // Reference the actual <img> element
+    const img = card.querySelector('.editorial-grid-card__image img');
+    const imageCell = img || '';
 
-  // Each card is a .ds2-action-bar-link
-  const cardLinks = Array.from(actionBar.querySelectorAll('.ds2-action-bar-link'));
+    // --- Text Extraction ---
+    const copy = card.querySelector('.editorial-grid-card__copy-wrapper');
+    const textCellContent = [];
+    if (copy) {
+      // Title (h3)
+      const title = copy.querySelector('.editorial-grid-card__title');
+      if (title) textCellContent.push(title);
+      // Description (p)
+      const desc = copy.querySelector('.editorial-grid-card__body');
+      if (desc) textCellContent.push(desc);
+    }
+    // If no text content, leave cell empty string
+    const textCell = textCellContent.length ? textCellContent : '';
 
-  cardLinks.forEach(card => {
-    // The icon and text are inside the <a>
-    const link = card.querySelector('a');
-    if (!link) return;
-
-    // Find the icon div
-    const icon = link.querySelector('.ds2-action-bar-icon');
-    // Find the text div
-    const text = link.querySelector('.ds2-action-bar-text');
-    if (!icon || !text) return;
-
-    // Cell 1: icon (as element)
-    // Cell 2: text wrapped in link (as element)
-    const cardLink = document.createElement('a');
-    cardLink.href = link.href;
-    if (link.title) cardLink.title = link.title;
-    cardLink.appendChild(text.cloneNode(true));
-
-    rows.push([
-      icon.cloneNode(true),
-      cardLink
-    ]);
+    // Add row: [image, text]
+    rows.push([imageCell, textCell]);
   });
 
   // Create the table block
-  const block = WebImporter.DOMUtils.createTable(rows, document);
-  element.replaceWith(block);
+  const table = WebImporter.DOMUtils.createTable(rows, document);
+  element.replaceWith(table);
 }
